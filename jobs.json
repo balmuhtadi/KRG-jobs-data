@@ -1,5 +1,55 @@
 [
   {
+    "id": 117,
+    "img": "assets/img-7.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "Airport Manager, Puvirnituk Airport",
+    "Frenchtitle": "Directeur d’aéroport, aéroport de Puvirnituk",
+    "Inuktituttitle": "ᒥᕝᕕᒥᒃ ᐊᐅᓚᑦᓯᔨ, ᐳᒡᕐᓂᑐᖅ ᒥᕝᕕᖓᓂ",
+    "Englishdepartment": "Transportation",
+    "Frenchdepartment": "Transportation",
+    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
+    "salary": "$78,957-$108,564/year",
+    "experience": "5 years exp.",
+    "Englishlink": "assets/hr(jobs)/Airport_Manager_Puvirnituk_E_12_2023.pdf",
+    "Frenchlink": "assets/hr(jobs)/Airport_Manager_Puvirnituk_F_12_2023.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Airport_Manager_Puvirnituk_I_12_2023.pdf",
+    "company": "KRG",
+    "title": "Airport Manager, Puvirnituk Airport",
+    "description": "",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Puvirnituk, Canada",
+    "deadline": "December 26, 2023"
+  },
+  {
+    "id": 116,
+    "img": "assets/img-6.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "Airport Manager, Kuujjuaraapik Airport",
+    "Frenchtitle": "Directeur d’aéroport, aéroport de Kuujjuaraapik",
+    "Inuktituttitle": "ᒥᕝᕕᒥᒃ ᐊᐅᓚᑦᓯᔨ, ᑰᑦᔪᐊᕌᐱᒃ ᒥᕝᕕᖓᓂ",
+    "Englishdepartment": "Transportation",
+    "Frenchdepartment": "Transportation",
+    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
+    "salary": "$78,957-$108,564/year",
+    "experience": "5 years exp.",
+    "Englishlink": "assets/hr(jobs)/Airport_Manager_Kuujjuaraapik_E_12_2023.pdf",
+    "Frenchlink": "assets/hr(jobs)/Airport_Manager_Kuujjuaraapik_F_12_2023.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Airport_Manager_Kuujjuaraapik_I_12_2023.pdf",
+    "company": "KRG",
+    "title": "Airport Manager, Kuujjuaraapik Airport",
+    "description": "",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaraapik, Canada",
+    "deadline": "December 26, 2023"
+  },
+  {
     "id": 115,
     "img": "assets/img-5.png",
     "typeEn": "Full-Time",
@@ -574,7 +624,7 @@
     "location": "Nunavik, Canada",
     "deadline": "November 23, 2023"
   },
- 
+
   {
     "id": 76,
     "img": "assets/img-1.png",
@@ -600,7 +650,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  
+
   {
     "id": 74,
     "img": "assets/img-9.png",
@@ -626,10 +676,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
- 
-  
-  
- 
+
   {
     "id": 2,
     "img": "assets/img-8.png",
@@ -680,7 +727,7 @@
     "location": "Nunavik, Canada",
     "deadline": ""
   },
- 
+
   {
     "id": 8,
     "img": "assets/img-5.png",
@@ -932,7 +979,6 @@
     "location": "Inukjuak, Canada",
     "deadline": ""
   },
- 
 
   {
     "id": 27,
@@ -959,7 +1005,6 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
- 
 
   {
     "id": 31,
