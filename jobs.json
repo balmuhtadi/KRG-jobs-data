@@ -1,5 +1,30 @@
 [
   {
+    "id": 126,
+    "img": "assets/img-6.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "DRINKING WATER PLANT OPERATIONS AND MAINTENANCE INSTRUCTOR",
+    "Frenchtitle": "AGENT DE FORMATION POUR L’EXPLOITATION ET L’ENTRETIEN DES USINES DE TRAITEMENT DE L’EAU",
+    "Inuktituttitle": "ᐃᒥᕐᑕᕕᒻᒥ ᐱᓇᓱᑦᑎ ᐋᕐᕿᓱᐃᓂᕐᒥᒃ ᐃᓕᓐᓂᐊᑎᑦᓯᔨ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$44,712-$75,226/year",
+    "experience": "2 years exp",
+    "Englishlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_2024_E.pdf",
+    "Frenchlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_2024_F.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_2024_I.pdf",
+    "company": "KRG",
+    "title": "DRINKING WATER PLANT OPERATIONS AND MAINTENANCE INSTRUCTOR",
+    "description": "",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": "February 9, 2024"
+  },
+  {
     "id": 137,
     "img": "assets/img-7.png",
     "typeEn": "Full-Time",
@@ -299,31 +324,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 126,
-    "img": "assets/img-6.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "DRINKING WATER PLANT OPERATIONS AND MAINTENANCE INSTRUCTOR",
-    "Frenchtitle": "AGENT DE FORMATION POUR L’EXPLOITATION ET L’ENTRETIEN DES USINES DE TRAITEMENT DE L’EAU",
-    "Inuktituttitle": "ᐃᒥᕐᑕᕕᒻᒥ ᐱᓇᓱᑦᑎ ᐋᕐᕿᓱᐃᓂᕐᒥᒃ ᐃᓕᓐᓂᐊᑎᑦᓯᔨ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$44,712-$75,226/year",
-    "experience": "2 years exp",
-    "Englishlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_2024_I.pdf",
-    "company": "KRG",
-    "title": "DRINKING WATER PLANT OPERATIONS AND MAINTENANCE INSTRUCTOR",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "January 26, 2024"
-  },
+
 
   {
     "id": 124,
