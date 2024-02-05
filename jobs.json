@@ -1,5 +1,30 @@
 [
   {
+    "id": 148,
+    "img": "assets/img-8.png",
+    "typeEn": "Temporary, Full-time",
+    "typeFr": "Poste temporaire TEMPS PLEIN",
+    "typeIu": "ᐱᓇᓱᒐᐅᓚᐅᕐᑐᑐᖅ, ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "NUNAVIK CLIMATE CHANGE ADVISOR",
+    "Frenchtitle": "Coordonnateur adjoint, Processus réglementaire des transports",
+    "Inuktituttitle": "ᑲᔪᓯᑎᑦᓯᔨᐅᑉ ᐃᑲᔪᕐᑎᖓ, ᐃᖏᕐᕋᐅᑎᓕᕆᓂᕐᓂ ᒪᓕᒉᑦ ᑲᔪᓯᑎᑕᐅᑦᓯᐊᓂᖏᓐᓄᑦ",
+    "Englishdepartment": "Renewable Resources RENEWABLE RESOURCES,",
+    "Frenchdepartment": "AGENT RÉGIONAL DU PROGRAMME DE SOUTIEN AUX CHASSEURS (PSC)",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ, ᓄᓇᓕᕆᓂᕐᒧᑦ ᒥᕐᖑᐃᓯᕐᕕᓕᕆᓂᕐᒧᓗ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$44,712-$75,266/year",
+    "experience": "2 years exp.",
+    "Englishlink": "assets/hr(jobs)/Nunavik_Climate_Change_Advisor_E_2024.pdf",
+    "Frenchlink": "assets/hr(jobs)/Nunavik_Climate_Change_Advisor_F_2024.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Nunavik_Climate_Change_Advisor_I_2024.pdf",
+    "company": "KRG",
+    "title": "NUNAVIK CLIMATE CHANGE ADVISOR",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": "February 19, 2024"
+  },
+  {
     "id": 147,
     "img": "assets/img-7.png",
     "typeEn": "Full-Time",
@@ -575,7 +600,6 @@
     "deadline": ""
   },
 
-
   {
     "id": 124,
     "img": "assets/img-4.png",
@@ -904,7 +928,6 @@
     "deadline": ""
   },
 
-
   {
     "id": 14,
     "img": "assets/img-5.png",
@@ -930,7 +953,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
- 
+
   {
     "id": 16,
     "img": "assets/img-3.png",
