@@ -600,31 +600,6 @@
     "deadline": "February 12, 2024"
   },
   {
-    "id": 139,
-    "img": "assets/img-9.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN- PLUMBER",
-    "Frenchtitle": "TECHNICIEN D’ENTRETIEN DES BÂTIMENTS – PLOMBIER",
-    "Inuktituttitle": "ᐃᓪᓗᓂᒃ ᓴᓇᒋᐊᓪᓛᕆᔨ- ᐃᒪᕐᑑᑎᓕᕆᔨ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$49,589-$84,336/year",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_E_2023_12.pdf",
-    "Frenchlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_F_2023_12.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_I_2023_12.pdf",
-    "company": "KRG",
-    "title": "BUILDING MAINTENANCE TECHNICIAN- PLUMBER",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "February 13, 2024"
-  },
-  {
     "id": 138,
     "img": "assets/img-8.png",
     "typeEn": "Full-Time",
@@ -876,31 +851,6 @@
     "deadline": ""
   },
 
-  {
-    "id": 121,
-    "img": "assets/img-1.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "ADMINISTRATIVE TECHNICIAN ‒ MPW DEPARTMENT",
-    "Frenchtitle": "TECHNICIEN ADMINISTRATIF - MPW",
-    "Inuktituttitle": "ᐊᐅᓚᑦᓯᓂᓕᕆᓂᒃᑯᑦ ᐱᓪᓗᑯᒋᐊᖃᕐᑐᓕᕆᔨ - ᒥᓂᓯᐹᓕᑎᓕᕆᕕᐅᑉ ᐱᓇᓱᐊᕐᕕᖓᓄᑦ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$38,651-$62,638/year",
-    "experience": "2 years exp.",
-    "Englishlink": "assets/hr(jobs)/Administrative_Technician_TEMP_E_2023.pdf",
-    "Frenchlink": "assets/hr(jobs)/Administrative_Technician_TEMP_F_2023.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Administrative_Technician_TEMP_I_2023.pdf",
-    "company": "KRG",
-    "title": "ADMINISTRATIVE TECHNICIAN ‒ MPW DEPARTMENT",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "January 8, 2024"
-  },
 
   {
     "id": 118,
