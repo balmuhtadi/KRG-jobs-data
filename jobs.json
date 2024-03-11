@@ -1,5 +1,30 @@
 [
   {
+    "id": 154,
+    "img": "assets/img-4.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "Coordinator, Travel Services",
+    "Frenchtitle": "Coordonnateur des services de voyages",
+    "Inuktituttitle": "ᐊᑕᐅᑦᓯᑰᕐᑎᓯᔨ, ᐊᐅᓪᓚᑐᓕᕆᓂᖅ",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$87,451-$120,246/year",
+    "experience": "5 years exp.",
+    "Englishlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_E.pdf",
+    "Frenchlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_F.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_I.pdf",
+    "company": "KRG",
+    "title": "Coordinator, Travel Services",
+    "description": "",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "March 25, 2024"
+  },
+  {
     "id": 170,
     "img": "assets/img-10.png",
     "typeEn": "Full-Time",
@@ -375,31 +400,7 @@
     "deadline": "March 01, 2024"
   },
 
-  {
-    "id": 154,
-    "img": "assets/img-4.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "Coordinator, Travel Services",
-    "Frenchtitle": "Coordonnateur des services de voyages",
-    "Inuktituttitle": "ᐊᑕᐅᑦᓯᑰᕐᑎᓯᔨ, ᐊᐅᓪᓚᑐᓕᕆᓂᖅ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$87,451-$120,246/year",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_I.pdf",
-    "company": "KRG",
-    "title": "Coordinator, Travel Services",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "February 27, 2024"
-  },
+
 
   {
     "id": 146,
