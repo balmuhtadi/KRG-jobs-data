@@ -149,31 +149,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "March 25, 2024"
   },
-  {
-    "id": 170,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "SENIOR DEPARTMENT CLERK",
-    "Frenchtitle": "COMMIS DE BUREAU PRINCIPAL",
-    "Inuktituttitle": "ᐱᓇᓱᕝᕕᒥ ᓇᓗᓀᕐᑐᐃᔨᒻᒪᕆ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$42,188-$69,879/year",
-    "experience": "4 years exp.",
-    "Englishlink": "assets/hr(jobs)/Senior_Department_Clerk_Travel_24_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Senior_Department_Clerk_Travel_24_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Senior_Department_Clerk_Travel_24_I.pdf",
-    "company": "KRG",
-    "title": "SENIOR DEPARTMENT CLERK",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+
   {
     "id": 169,
     "img": "assets/img-9.png",
@@ -500,34 +476,6 @@
     "deadline": ""
   },
   {
-    "id": 156,
-    "img": "assets/img-6.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN- PLUMBER",
-    "Frenchtitle": "TECHNICIEN D’ENTRETIEN DES BÂTIMENTS – PLOMBIER",
-    "Inuktituttitle": "ᐃᓪᓗᓂᒃ ᓴᓇᒋᐊᓪᓛᕆᔨ- ᐃᒪᕐᑑᑎᓕᕆᔨ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_rotation_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_rotation_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_rotation_2024_I.pdf",
-    "company": "KRG",
-    "title": "PARK WARDEN, PARC DES PINGUALUIT",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": "March 01, 2024"
-  },
-
-
-
-  {
     "id": 146,
     "img": "assets/img-6.png",
     "typeEn": "Full-Time",
@@ -727,31 +675,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 130,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "SENIOR BUYER",
-    "Frenchtitle": "ACHETEUR PRINCIPAL",
-    "Inuktituttitle": "ᓂᐅᕕᕋᕐᑎᒪᕆ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Senior_Buyer_Temp_24_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Senior_Buyer_Temp_24_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Senior_Buyer_Temp_24_I.pdf",
-    "company": "KRG",
-    "title": "SENIOR BUYER",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Quebec, Canada",
-    "deadline": "February 9, 2024"
-  },
+
 
   {
     "id": 128,
