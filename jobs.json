@@ -1,4 +1,30 @@
 [
+  
+  {
+    "id": 178,
+    "img": "assets/img-8.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "COMMUNITY REINTEGRATION OFFICER",
+    "Frenchtitle": "AGENT DE RÉINSERTION COMMUNAUTAIRE",
+    "Inuktituttitle": "ᓄᓇᓕᒻᒧᑦ ᐅᑎᕐᑐᒥᒃ ᑎᒍᔭᐅᒪᔪᕕᓂᕐᒥᒃ ᐃᓚᐅᓕᕐᑎᓯᒋᐊᓪᓚᓂᕐᒧᑦ ᐃᑲᔪᕐᑎ",
+    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
+    "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
+    "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$44,712-$75,266/year",
+    "experience": "no exp required.",
+    "Englishlink": "assets/hr(jobs)/Community_Reintegration_Officer_E_2024.pdf",
+    "Frenchlink": "assets/hr(jobs)/Community_Reintegration_Officer_F_2024.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Community_Reintegration_Officer_I_2024.pdf",
+    "company": "KRG",
+    "title": "COMMUNITY REINTEGRATION OFFICER",
+    "description": "",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
   {
     "id": 177,
     "img": "assets/img-7.png",
@@ -625,35 +651,6 @@
     "location": "Akulivik, Canada",
     "deadline": ""
   },
-
-  {
-    "id": 132,
-    "img": "assets/img-2.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "COMMUNITY REINTEGRATION OFFICER",
-    "Frenchtitle": "AGENT DE RÉINSERTION COMMUNAUTAIRE",
-    "Inuktituttitle": "ᓄᓇᓕᒻᒧᑦ ᐅᑎᕐᑐᒥᒃ ᑎᒍᔭᐅᒪᔪᕕᓂᕐᒥᒃ ᐃᓚᐅᓕᕐᑎᓯᒋᐊᓪᓚᓂᕐᒧᑦ ᐃᑲᔪᕐᑎ",
-    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
-    "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
-    "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$44,712-$75,266/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/CRO_Kuujjuaq_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/CRO_Kuujjuaq_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/CRO_Kuujjuaq_I_2024.pdf",
-    "company": "KRG",
-    "title": "ADMINISTRATIVE TECHNICIAN",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "February 6, 2024"
-  },
-
-
-
   {
     "id": 128,
     "img": "assets/img-7.png",
