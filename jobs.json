@@ -1,5 +1,29 @@
 [
-  
+  {
+    "id": 179,
+    "img": "assets/img-9.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "Payroll and Finance Manager",
+    "Frenchtitle": "Gestionnaire de la paie et des finances",
+    "Inuktituttitle": "ᑮᓇᐅᑦᔭᕈᑎᓂᒃ ᐊᒻᒪᓗ ᑮᓇᐅᔭᓕᕆᐅᑎᓂᒃ ᑲᒪᔨᒻᒪᕆᒃ",
+    "Englishdepartment": "Finance, Treasury",
+    "Frenchdepartment": "Service financier, de la trésorerie",
+    "Inuktitutdepartment": "ᑮᓇᐅᔭᖃᐅᑎ ᑮᓇᐅᔭᓕᕆᓂᕐᒥᒃ ᐱᓇᓱᕝᕕ",
+    "salary": "$93,011-$127,890/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Payroll_and_Finance_Manager_E_2024.pdf",
+    "Frenchlink": "assets/hr(jobs)/Payroll_and_Finance_Manager_F_2024.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Payroll_and_Finance_Manager_I_2024.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
   {
     "id": 178,
     "img": "assets/img-8.png",
