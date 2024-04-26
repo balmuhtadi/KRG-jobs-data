@@ -1105,31 +1105,7 @@
     "location": "Puvirnituk, Canada",
     "deadline": "March 08, 2024"
   },
-  {
-    "id": 160,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "MECHANIC",
-    "Frenchtitle": "MÉCANICIEN",
-    "Inuktituttitle": "ᐊᐅᓚᐅᓯᕆᔨ",
-    "Englishdepartment": "Civil Security Department",
-    "Frenchdepartment": "Service de la sécurité publique",
-    "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$58,374668-$100,085/year",
-    "experience": "1 years exp",
-    "Englishlink": "assets/hr(jobs)/Civil_Security_Mechanic_E_ 2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Civil_Security_Mechanic_F_ 2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Civil_Security_Mechanic_I_ 2024.pdf",
-    "company": "KRG",
-    "title": "MECHANIC",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": "March 08, 2024"
-  },
+
   {
     "id": 146,
     "img": "assets/img-6.png",
