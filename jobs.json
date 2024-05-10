@@ -1,4 +1,30 @@
 [
+  
+  {
+    "id": 227,
+    "img": "assets/img-7.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
+    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN",
+    "Frenchtitle": "TECHNICIEN D’ENTRETIEN DES BÂTIMENTS",
+    "Inuktituttitle": "ᐃᓪᓗᓂᒃ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᓂᕐᓄᑦ ᐱᓪᓗᑯᒋᐊᓕᑦᑎ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$44,712-$75,266/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Building_Maintenance_Technician_Rotation_E_2024.pdf",
+    "Frenchlink": "assets/hr(jobs)/Building_Maintenance_Technician_Rotation_F_2024.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Building_Maintenance_Technician_Rotation_I_2024.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": ""
+  },
   {
     "id": 226,
     "img": "assets/img-6.png",
