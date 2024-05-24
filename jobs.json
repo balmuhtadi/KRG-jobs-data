@@ -1,5 +1,30 @@
 [
   {
+    "id": 245,
+    "img": "assets/img-5.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
+    "Englishtitle": "ELECTRICIAN",
+    "Frenchtitle": "ÉLECTRICIEN",
+    "Inuktituttitle": "ᐃᑯᒪᓕᕆᔨ",
+    "Englishdepartment": "Transportation",
+    "Frenchdepartment": "Transportation",
+    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
+    "salary": "$51,077-$86,867/year",
+    "experience": "no exp required.",
+    "Englishlink": "assets/hr(jobs)/Electrician_Rotation_E_2024_Temp.pdf",
+    "Frenchlink": "assets/hr(jobs)/Electrician_Rotation_F_2024_Temp.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Electrician_Rotation_I_2024_Temp.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": "June 7, 2024"
+  },
+  {
     "id": 244,
     "img": "assets/img-4.png",
     "typeEn": "Full-time",
@@ -21,7 +46,7 @@
     "description": "",
     "descriptionFr": " ",
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Other (Rotation)",
+    "location": "Nunavik, Canada",
     "deadline": "June 7, 2024"
   },
   {
