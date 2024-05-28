@@ -274,31 +274,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 235,
-    "img": "assets/img-5.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "Coordinator, Airports Operations and Maintenance",
-    "Frenchtitle": "Coordonnateur, opérations et maintenance des aéroports",
-    "Inuktituttitle": "ᑲᔪᓯᑎᑦᓯᔨ, ᑎᒻᒥᔫᕐᓂᐊᕖᑦ ᐃᖏᕐᕋᓂᖏᑦ ᐊᒻᒪᓗ ᐱᒪᔭᐅᓂᖏᑦ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$90,231-$124,068/year",
-    "experience": "5 year exp",
-    "Englishlink": "assets/hr(jobs)/Coordinator_Airport_Operations_and_Maintenance_Nunavik_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Coordinator_Airport_Operations_and_Maintenance_Nunavik_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Coordinator_Airport_Operations_and_Maintenance_Nunavik_I_2024.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": "May 24, 2024"
-  },
+
   {
     "id": 234,
     "img": "assets/img-4.png",
