@@ -963,31 +963,7 @@
     "location": "Puvirnituq, Inukjuak or Salluit, Canada",
     "deadline": ""
   },
-  {
-    "id": 176,
-    "img": "assets/img-6.png",
-    "typeEn": "contract",
-    "typeFr": "Contrat",
-    "typeIu": "ᐱᓇᓱᒐᖃᕈᑎ",
-    "Englishtitle": "DIRECTOR, HUMAN RESSOURCES",
-    "Frenchtitle": "DIRECTOR DES RESSOURCES HUMAINES",
-    "Inuktituttitle": "ᑐᑭᒧᐊᑦᑎᓯᔨ, ᐱᓇᓱᑦᑎᓕᕆᓂᖅ",
-    "Englishdepartment": "Human Resources",
-    "Frenchdepartment": "RESSOURCES HUMAINES",
-    "Inuktitutdepartment": "ᐱᓇᓱᑦᑎᓕᕆᕕᒻᒥ",
-    "salary": "$124,515-$171,209/year",
-    "experience": "10 years exp",
-    "Englishlink": "assets/hr(jobs)/Director_Human_Resources_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Director_Human_Resources_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Director_Human_Resources_I_2024.pdf",
-    "company": "KRG",
-    "title": " ",
-    "description": " ",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+
   {
     "id": 175,
     "img": "assets/img-5.png",
