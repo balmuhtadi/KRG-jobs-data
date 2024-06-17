@@ -1019,31 +1019,6 @@
   },
 
 
-  {
-    "id": 146,
-    "img": "assets/img-6.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "Janitor ",
-    "Frenchtitle": "CONCIERGE",
-    "Inuktituttitle": "ᓕᒪ ᓐᓴäᖏᑎᒧᖅ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$31,528-$43,021/year",
-    "experience": "3 months exp.",
-    "Englishlink": "assets/hr(jobs)/Janitor_Kuujjuaq_E_24.pdf",
-    "Frenchlink": "assets/hr(jobs)/Janitor_Kuujjuaq_F_24.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Janitor_Kuujjuaq_I_24.pdf",
-    "company": "KRG",
-    "title": "Janitor",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
 
   {
     "id": 144,
