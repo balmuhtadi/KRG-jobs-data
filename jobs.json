@@ -228,31 +228,7 @@
     "deadline": "June 28, 2024"
   },
 
-  {
-    "id": 244,
-    "img": "assets/img-4.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "Airport Response Specialist",
-    "Frenchtitle": "Spécialiste en intervention aéroportuaire",
-    "Inuktituttitle": "ᒥᕝᕕᒥ ᐅᐃᒪᓇᕐᑐᓕᕆᔨᖓᑦ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$58,466-$100,085/year",
-    "experience": "3 years exp",
-    "Englishlink": "assets/hr(jobs)/Airport_Response_Specialist_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Airport_Response_Specialist_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Airport_Response_Specialist_I_2024.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": "June 24, 2024"
-  },
+ 
 
   {
     "id": 241,
@@ -355,31 +331,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "June 13, 2024"
   },
-  {
-    "id": 245,
-    "img": "assets/img-5.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "ELECTRICIAN",
-    "Frenchtitle": "ÉLECTRICIEN",
-    "Inuktituttitle": "ᐃᑯᒪᓕᕆᔨ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Electrician_Rotation_E_2024_Temp.pdf",
-    "Frenchlink": "assets/hr(jobs)/Electrician_Rotation_F_2024_Temp.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Electrician_Rotation_I_2024_Temp.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": "June 7, 2024"
-  },
+
   {
     "id": 236,
     "img": "assets/img-5.png",
@@ -613,31 +565,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 216,
-    "img": "assets/img-6.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "AIRPORT MAINTAINER",
-    "Frenchtitle": "PRÉPOSÉ À L’ENTRETIEN DE L’AÉROPORT",
-    "Inuktituttitle": "ᑎᒻᒥᔫᕐᓂᐊᕕᒻᒥ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᑎ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$42,188-$69,879/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Maintainer_Puvirnituq_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Maintainer_Puvirnituq_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Maintainer_Puvirnituq_I_2024.pdf",
-    "company": "KRG",
-    "title": "AIRPORT MAINTAINER ",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Puvirnituk, Canada",
-    "deadline": "May 13, 2024"
-  },
+
 
 
   {
