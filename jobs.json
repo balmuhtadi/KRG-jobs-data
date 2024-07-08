@@ -354,31 +354,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 240,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "COMMUNICATIONS OFFICER",
-    "Frenchtitle": "AGENT DES COMMUNICATIONS",
-    "Inuktituttitle": "ᑐᓴᐅᒪᐅᑎᓕᕆᓂᕐᓂᒃ ᑲᒪᔨ",
-    "Englishdepartment": "Communications",
-    "Frenchdepartment": "Département des communications",
-    "Inuktitutdepartment": "ᑐᓴᕈᑎᓕᕆᕕᒻᒥ ᐱᓇᓱᐊᕐᕕᒃ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Communication_Officer_24_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Communication_Officer_24_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Communication_Officer_24_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "June 15, 2024"
-  },
+
 
   {
     "id": 238,
@@ -405,31 +381,7 @@
     "location": "Nunavik, Canada",
     "deadline": ""
   },
-  {
-    "id": 237,
-    "img": "assets/img-7.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "ENVIRONMENTAL SPECIALIST",
-    "Frenchtitle": "SPÉCIALISTE EN ENVIRONNEMENT",
-    "Inuktituttitle": "ᐊᕙᑎᓕᕆᓂᕐᒥᒃ ᖃᐅᔨᒪᔨᒻᒪᕆᒃ",
-    "Englishdepartment": "Renewable Resources",
-    "Frenchdepartment": "Service des ressources renouvelables",
-    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
-    "salary": "$58,466-$100,085/year",
-    "experience": "2 years exp",
-    "Englishlink": "assets/hr(jobs)/Environment_Specialist_Recycling_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Environment_Specialist_Recycling_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Environment_Specialist_Recycling_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "June 13, 2024"
-  },
+
 
   {
     "id": 236,
@@ -718,31 +670,6 @@
     "deadline": ""
   },
 
-  {
-    "id": 183,
-    "img": "assets/img-3.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "PROJECT MANAGER INFRASTRUCTURE – NUNAVIK PARKS",
-    "Frenchtitle": "GESTIONNAIRE DE PROJETS D’INFRASTRUCTURE – NUNAVIK PARKS",
-    "Inuktituttitle": "ᐱᓇᓱᐊᕋᑦᓴᓂ ᐊᐅᓚᑦᓯᔨ ᐃᓪᓗᓕᕆᓂᕐᒥᒃ – ᓄᓇᕕᒻᒥ ᒥᕐᖑᐃᓯᕐᕖᑦ",
-    "Englishdepartment": "Renewable Resources",
-    "Frenchdepartment": "Service des ressources renouvelables",
-    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
-    "salary": "$62,011-$106,403/year",
-    "experience": "3 years exp",
-    "Englishlink": "assets/hr(jobs)/Project_Manager_Infrastructure_Parks_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Project_Manager_Infrastructure_Parks_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Project_Manager_Infrastructure_Parks_I_2024.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
   {
     "id": 181,
     "img": "assets/img-1.png",
