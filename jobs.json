@@ -1,5 +1,30 @@
 [
   {
+    "id": 264,
+    "img": "assets/img-4.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
+    "Englishtitle": "CUSTOMER SERVICE REPRESENTATIVE TIER 2",
+    "Frenchtitle": "REPRÉSENTANT DU SERVICE À LA CLIENTÈLE (ÉCHELON 2)",
+    "Inuktituttitle": "ᓂᐅᕕᕐᑏᑦ ᐱᒍᑦᔭᐅᓂᖏᓐᓄᑦ ᑭᒃᑲᑐᕐᑎ ᐳᕐᑐᓂᓕᒃ 2",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$44,712-$75,266/year",
+    "experience": "no exp required.",
+    "Englishlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_E_2024.pdf",
+    "Frenchlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_F_2024.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_I_2024.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
+  {
     "id": 263,
     "img": "assets/img-3.png",
     "typeEn": "Full-time",
@@ -8,7 +33,7 @@
     "Englishtitle": "LEGAL ADVISOR - MUNICIPAL",
     "Frenchtitle": "CONSEILLER OU CONSEILLÈRE JURIDIQUE – MUNICIPAL",
     "Inuktituttitle": "ᐱᖁᔭᓕᕆᓂᕐᒧᑦ ᐃᒫᙰᕐᑎ - ᑲᕙᒫᐱᓐᓄᑦ",
-"Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
+    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
     "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
     "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
     "salary": "$62,011-$106,403/year",
@@ -275,7 +300,6 @@
     "deadline": ""
   },
 
-
   {
     "id": 249,
     "img": "assets/img-9.png",
@@ -351,7 +375,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
- 
+
   {
     "id": 241,
     "img": "assets/img-1.png",
@@ -378,7 +402,6 @@
     "deadline": ""
   },
 
-
   {
     "id": 238,
     "img": "assets/img-8.png",
@@ -404,8 +427,6 @@
     "location": "Nunavik, Canada",
     "deadline": ""
   },
- 
- 
 
   {
     "id": 230,
@@ -611,8 +632,6 @@
     "deadline": ""
   },
 
-
-
   {
     "id": 207,
     "img": "assets/img-7.png",
@@ -767,7 +786,6 @@
     "deadline": ""
   },
 
-
   {
     "id": 172,
     "img": "assets/img-2.png",
@@ -894,8 +912,6 @@
     "location": "Kangirsuk, Canada",
     "deadline": ""
   },
-
-
 
   {
     "id": 144,
