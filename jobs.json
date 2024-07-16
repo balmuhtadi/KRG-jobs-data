@@ -400,31 +400,7 @@
     "deadline": ""
   },
 
-  {
-    "id": 249,
-    "img": "assets/img-9.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "DEPARTMENT CLERK – TRAVEL",
-    "Frenchtitle": "COMMIS DE BUREAU – RÉSERVATIONS DE VOYAGE",
-    "Inuktituttitle": "ᐱᒍᑦᔨᕕᒻᒥ ᐊᓪᓚᑎ – ᖃᖓᑦᑕᐅᑎᓕᕆᕕᒃ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$37,547-$59,130/year",
-    "experience": "2 years exp",
-    "Englishlink": "assets/hr(jobs)/Dept_Clerk_Travel_E_24.pdf",
-    "Frenchlink": "assets/hr(jobs)/Dept_Clerk_Travel_F_24.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Dept_Clerk_Travel_I_24.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+
   {
     "id": 248,
     "img": "assets/img-8.png",
@@ -476,31 +452,7 @@
     "deadline": ""
   },
 
-  {
-    "id": 241,
-    "img": "assets/img-1.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "Coordinator, Travel Services",
-    "Frenchtitle": "Coordonnateur des services de voyages",
-    "Inuktituttitle": "ᐊᑕᐅᑦᓯᑰᕐᑎᓯᔨ, ᐊᐅᓪᓚᑐᓕᕆᓂᖅ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$87,451-$120,246/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Coordinator_Travel_Services_2024_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+
 
   {
     "id": 238,
@@ -578,31 +530,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 228,
-    "img": "assets/img-8.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "BUILDING TECHNICIAN - CARPENTER",
-    "Frenchtitle": "TECHNICIEN EN BÂTIMENT – CHARPENTIER",
-    "Inuktituttitle": "ᐃᓪᓗᓕᕆᓂᕐᒥᒃ ᐱᓪᓗᑯᑦᑐᓕᕆᔨ - ᕿᔪᓕᕆᔨ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Building_Technician_Carpenter_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Building_Technician_Carpenter_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Building_Technician_Carpenter_2024_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "May 24, 2024"
-  },
+
   {
     "id": 227,
     "img": "assets/img-7.png",
@@ -887,32 +815,6 @@
   },
 
   {
-    "id": 172,
-    "img": "assets/img-2.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN- PLUMBER",
-    "Frenchtitle": "TECHNICIEN D’ENTRETIEN DES BÂTIMENTS – PLOMBIER",
-    "Inuktituttitle": "ᐃᓪᓗᓂᒃ ᓴᓇᒋᐊᓪᓛᕆᔨ- ᐃᒪᕐᑑᑎᓕᕆᔨ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_rotation_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_rotation_FR_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Building_Maintenance_Technician_Plumber_rotation_FR_2024.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": ""
-  },
-
-  {
     "id": 168,
     "img": "assets/img-8.png",
     "typeEn": "Full-time",
@@ -1165,31 +1067,6 @@
     "deadline": ""
   },
 
-  {
-    "id": 14,
-    "img": "assets/img-5.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "SENIOR NETWORK ADMINISTRATOR - TAMAANI",
-    "Frenchtitle": "ADMINISTRATEUR PRINCIPAL DES RÉSEAUX",
-    "Inuktituttitle": "ᐳᕐᑐᓂᕐᐹᖅ ᐱᑐᑦᓯᒪᐅᑎᓕᕆᓂᕐᒥᒃ ᐊᐅᓚᑦᓯᓂᓕᕆᔨ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Administration",
-    "Inuktitutdepartment": "Administration",
-    "salary": "$62,011-$106,403/year",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/Senior_Network_Administrator_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Senior_Network_Administrator_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Senior_Network_Administrator_2024_I.pdf",
-    "company": "KRG",
-    "title": "SENIOR NETWORK ADMINISTRATOR - TAMAANI",
-    "description": "Under the supervision of the Coordinator of Network Operations, the Senior Network Administratorsupports and maintains KRG’s satellite and local distribution networks. The Network Administrator is alsoresponsible for the design, implementation of new network services, as well as providing documentation,procedures and training to Internet Services staff.TASKS:<br>• Maintain and configure devices related to satellite networking. This includes satellite modems,SSPAs, Cisco routers, bandwidth shapers and protocol accelerators.<br>• Maintain, configure and install devices related to a wireless broadband Internet Service andwireless LAN. This includes Huwaei LTE modems and Redline AN80i and 3K technology.<br>• Monitor the network for outages, congestion or problems.<br>• Provide level 3 support to customer service representatives for network related issues.<br>• Ensure proper documentation of all systems related network activities and infrastructure.<br>• Assist with the management of the Internet service billing system.<br>• Provide technical training to junior and intermediate technical staff.<br>• Coordinate network emergency response with local agents and intervene in person if necessary.<br>• Maintain an inventory of spare equipment and parts for emergency repairs.<br>• Advise the Coordinator of Network Operations and the Assistant Director on infrastructurechanges and future requirements.<br>• Perform any other related tasks as requested by the direct supervisor.<br>QUALIFICATIONS:<br>• College level diploma in network technology.<br>• 5 years of experience as network administrator.<br>• Cisco certification and prior experience working with wireless networking an asset.<br>• In depth knowledge of TCP/IP networking and routing protocols (IP, TCP, OSPF, IGRP) and Ethernetswitching protocols (802.1p, 802.1q)<br>• Knowledge of fibre networks including FTTH and FTTB<br>• Working knowledge of H.323 and other video networking protocols.<br>• Functional knowledge of IP QoS (Diffserv, ToS, etc), traffic shaping its application in an ISP classnetwork.<br>• Knowledge of encryption technology (IPSEC, SSL), satellite, wireless or RF knowledge an asset.<br>• Strong troubleshooting skills and the ability to resolve unforeseen network problems.<br>• Ability to transfer his/her knowledge to others. Strong focus on customer service oriented personality.<br>• Ability to communicate orally and in writing in at least two of the following languages: Inuktitut,English, French. working knowledge of Inuktitut is a definite asset.<br>• Must be available to occasionally work overtime, outside office hours and be available on-call.<br>• Must be able to travel regularly and, for emergencies, with little notice.",
-    "descriptionFr": "Sous la supervision du coordonnateur de l’exploitation des réseaux, l’administrateur principal des réseauxassure le soutien et la maintenance des réseaux de distribution par satellite et locaux de l’ARK.L’administrateur de réseau est également responsable de la conception et de la mise en œuvre denouveaux services de réseau, ainsi que de la fourniture de documentation, de procédures et de formationsau personnel des services Internet.TÂCHES :<br>• Entretenir et configurer les dispositifs liés à la mise en réseau des satellites. Il s’agit notamment demodems satellites, de SSPA, de routeurs Cisco, de mise en forme du trafic et d’accélérateurs deprotocole.<br>• Entretenir, configurer et installer les dispositifs liés à un service Internet sans fil à large bande età un réseau local sans fil. Il s’agit des modems LTE de Huwaei et de la technologieRedline AN80i et 3.<br>• Surveiller le réseau pour détecter les pannes, la congestion ou les problèmes.<br>• Fournir une assistance de niveau 3 aux représentants du service clientèle pour les problèmes liés auréseau.<br>• Assurer la documentation appropriée de tous les systèmes liés aux activités et infrastructures de réseau.<br>• Aider à la gestion du système de facturation des services Internet.<br>• Assurer la formation technique du personnel technique débutant et intermédiaire.<br>• Coordonner l’intervention d’urgence sur le réseau avec les agents locaux et intervenir en personne sinécessaire.<br>• Maintenir un inventaire d’équipements et de pièces de rechange pour les réparations d’urgence.<br>• Conseiller le coordinateur des opérations réseau et le directeur adjoint à propos deschangements d’infrastructure et les besoins futurs.<br>• Effectuer toute autre tâche demandée par le superviseur direct.<br>COMPÉTENCES :<br>• Diplôme de niveau collégial en technologie de réseau.<br>• 5 ans d’expérience en tant qu’administrateur réseau.<br>• Certification Cisco et expérience préalable dans le domaine des réseaux sans fil constituant un atout.<br>• Connaissance approfondie des réseaux TCP/IP et des protocoles de routage (IP, TCP, OSPF, IGRP)et des protocoles de commutation Ethernet (802.1p, 802.1q)<br>• Connaissance des réseaux de fibre optique, notamment FTTH et FTTB<br>• Connaissance pratique de la norme H.323 et d’autres protocoles de réseaux vidéo.<br>• Connaissance fonctionnelle des QoS IP (Diffserv, ToS, etc.), de la mise en forme du trafic et de sonapplication dans un réseau de classe ISP.<br>• Connaissance de la technologie de cryptage (IPSEC, SSL), des satellites, du sans-fil ou de la RFconstituant un atout.<br>• Solides compétences en matière de dépannage et capacité à résoudre les problèmes de réseauimprévus.<br>• Capacité à transférer ses connaissances aux autres. personnalité fortement axée sur le service à laclientèle.<br>• Capacité à communiquer oralement et par écrit dans au moins deux des langues suivantes : Inuktitut,anglais ou français. une connaissance pratique de l’inuktitut constitue un atout certain.<br>• Disposé à faire occasionnellement des heures supplémentaires, en dehors des heures de bureau etêtre disponible sur appel.<br>• Capable de voyager régulièrement et, en cas d’urgence, avec peu de préavis",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
   {
     "id": 22,
     "img": "assets/img-8.png",
