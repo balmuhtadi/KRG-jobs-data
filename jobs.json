@@ -1,4 +1,30 @@
 [
+  
+  {
+    "id": 288,
+    "img": "assets/img-8.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "JANITOR",
+    "Frenchtitle": "CONCIERGE",
+    "Inuktituttitle": "ᓴᓗᒻᒪᓭᔨ",
+    "Englishdepartment": "Transportation",
+    "Frenchdepartment": "Transportation",
+    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
+    "salary": "$31,528-$43,021/year",
+    "experience": "3 months exp.",
+    "Englishlink": "assets/hr(jobs)/Janitor_Inukjuak_E_24.pdf",
+    "Frenchlink": "assets/hr(jobs)/Janitor_Inukjuak_F_24.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Janitor_Inukjuak_I_24.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Inukjuak, Canada",
+    "deadline": ""
+  },
   {
     "id": 287,
     "img": "assets/img-7.png",
@@ -1041,31 +1067,6 @@
     "deadline": ""
   },
 
-  {
-    "id": 144,
-    "img": "assets/img-4.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "JANITOR – Kuujjuaq Airport",
-    "Frenchtitle": "CONCIERGE – Aéroport de Kuujjuaq",
-    "Inuktituttitle": "ᓴᓗᒻᒪᓭᔨ - ᒥᕝᕕᖓᓂ ᑰᑦᔪᐊᖅ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$31,528-$43,021/year",
-    "experience": "3 months exp.",
-    "Englishlink": "assets/hr(jobs)/Janitor_Kuujjuaq_Airport_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Janitor_Kuujjuaq_Airport_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Janitor_Kuujjuaq_Airport_I_2024.pdf",
-    "company": "KRG",
-    "title": "JANITOR – Kuujjuaq Airport",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
   {
     "id": 141,
     "img": "assets/img-1.png",
