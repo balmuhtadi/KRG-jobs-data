@@ -451,31 +451,6 @@
     "deadline": ""
   },
   {
-    "id": 256,
-    "img": "assets/img-6.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "SCHOOL PERSEVERANCE OFFICER – ESUMA",
-    "Frenchtitle": "AGENT EN PERSÉVÉRANCE SCOLAIRE – ESUMA",
-    "Inuktituttitle": "ᐃᓕᓐᓂᐊᓂᕐᒥᒃ ᓴᐱᓕᕐᓯᒌᑦᑑᓂᕐᒥᒃ ᐱᓇᓱᑦᑎ - ᐃᓱᒪ",
-    "Englishdepartment": "Sustainable Employment.",
-    "Frenchdepartment": "Service de l’emploi durable.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓂᒃ ᐱᒍᑦᔨᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "2 years exp",
-    "Englishlink": "assets/hr(jobs)/School_Perseverance_Officer_Esuma_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/School_Perseverance_Officer_Esuma_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/School_Perseverance_Officer_Esuma_I_2024.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
-  {
     "id": 255,
     "img": "assets/img-5.png",
     "typeEn": "Full-time",
@@ -1040,7 +1015,7 @@
     "description": "",
     "descriptionFr": "",
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
+    "location": "Nunavik, Canada",
     "deadline": ""
   },
   {
@@ -1069,31 +1044,6 @@
     "deadline": ""
   },
 
-  {
-    "id": 22,
-    "img": "assets/img-8.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "Sanajiit Project Officer",
-    "Frenchtitle": "Agent de projet - Sanajiit",
-    "Inuktituttitle": "ᓴᓇᔩᑦ ᐱᓇᓱᐊᕐᑕᐅᒋᐊᓕᓐᓄᑦ ᑲᒪᔨᒻᒪᕆᖓᑦ",
-    "Englishdepartment": "Sustainable Employment.",
-    "Frenchdepartment": "Service de l’emploi durable.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓂᒃ ᐱᒍᑦᔨᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$42,188-$69,879/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Project_Office_Sanajiit_Nunavik_24_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Project_Office_Sanajiit_Nunavik_24_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Project_Office_Sanajiit_Nunavik_24_I.pdf",
-    "company": "KRG",
-    "title": "Sanajiit Project Officer",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
   {
     "id": 23,
     "img": "assets/img-8.png",
