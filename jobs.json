@@ -1,5 +1,30 @@
 [
   {
+    "id": 312,
+    "img": "assets/img-2.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "LABORER",
+    "Frenchtitle": "MANOEUVRE",
+    "Inuktituttitle": "ᐱᓇᓱᑦᑎᑐᐃᓐᓇᖅ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$37,547-$59,130/year",
+    "experience": "2 years exp",
+    "Englishlink": "assets/hr(jobs)/Laborer_2024_E.pdf",
+    "Frenchlink": "assets/hr(jobs)/Laborer_2024_F.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Laborer_2024_I.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },  
+  {
     "id": 311,
     "img": "assets/img-1.png",
     "typeEn": "Full-Time",
@@ -174,31 +199,7 @@
     "location": "Nunavik, Canada",
     "deadline": "October 02, 2024"
   }, 
-  {
-    "id": 303,
-    "img": "assets/img-3.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "LABORER",
-    "Frenchtitle": "MANOEUVRE",
-    "Inuktituttitle": "ᐱᓇᓱᑦᑎᑐᐃᓐᓇᖅ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "$37,547-$59,130/year",
-    "experience": "2 years exp",
-    "Englishlink": "assets/hr(jobs)/Laborer_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Laborer_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Laborer_2024_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "September 30, 2024"
-  },  
+
 
   {
     "id": 301,
