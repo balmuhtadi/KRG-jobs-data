@@ -1,5 +1,30 @@
 [
   {
+    "id": 342,
+    "img": "assets/img-9.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "CUSTOMER SERVICE REPRESENTATIVE TIER 2",
+    "Frenchtitle": "REPRÉSENTANT DU SERVICE À LA CLIENTÈLE (ÉCHELON 2)",
+    "Inuktituttitle": "ᓂᐅᕕᕐᑏᑦ ᐱᒍᑦᔭᐅᓂᖏᓐᓄᑦ ᑭᒃᑲᑐᕐᑎ ᐳᕐᑐᓂᓕᒃ 2",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$44,712-$75,266/year",
+    "experience": "Prior experience working with wireless networking (both the software and physical aspects of RF networking);",
+    "Englishlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_E_2024.pdf",
+    "Frenchlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_F_2024.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_I_2024.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
+  {
     "id": 341,
     "img": "assets/img-1.png",
     "typeEn": "Full-Time",
@@ -632,31 +657,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "August 22, 2024"
   },
-  {
-    "id": 279,
-    "img": "assets/img-9.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "CUSTOMER SERVICE REPRESENTATIVE TIER 2",
-    "Frenchtitle": "REPRÉSENTANT DU SERVICE À LA CLIENTÈLE (ÉCHELON 2)",
-    "Inuktituttitle": "ᓂᐅᕕᕐᑏᑦ ᐱᒍᑦᔭᐅᓂᖏᓐᓄᑦ ᑭᒃᑲᑐᕐᑎ ᐳᕐᑐᓂᓕᒃ 2",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$44,712-$75,266/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_E_2024.pdf",
-    "Frenchlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_F_2024.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_I_2024.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+
 
   {
     "id": 272,
