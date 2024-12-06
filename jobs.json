@@ -225,31 +225,6 @@
     "deadline": "December 9, 2024"
   },
 
-  {
-    "id": 335,
-    "img": "assets/img-5.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "FIREFIGHTING TRAINING OFFICER",
-    "Frenchtitle": "AGENT DE FORMATION EN LUTTE CONTRE LES INCENDIES",
-    "Inuktituttitle": "ᖃᒥᑎᕆᔩᑦ ᐱᒋᐅᕐᓴᑎᑕᐅᓂᖏᓐᓂᒃ ᑲᔪᓯᒃᑫᔨ",    
-    "Englishdepartment": "Civil Security Department",
-    "Frenchdepartment": "Service de la sécurité publique",
-    "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$58,466-$100,085/year",
-    "experience": "3 year exp",
-    "Englishlink": "assets/hr(jobs)/Firefighting_training_Officer_E_2024_Hybrid.pdf",
-    "Frenchlink": "assets/hr(jobs)/Firefighting_training_Officer_F_2024_Hybrid.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Firefighting_training_Officer_I_2024_Hybrid.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Hybrid with travel in Nunavik",
-    "deadline": "December 6, 2024"
-  },
 
   {
     "id": 333,
@@ -427,31 +402,7 @@
     "location": "Kangiqsujuaq, Canada",
     "deadline": "November 15, 2024"
   }, 
-  {
-    "id": 325,
-    "img": "assets/img-5.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "MECHANIC",
-    "Frenchtitle": "MÉCANICIEN",
-    "Inuktituttitle": "ᐊᐅᓚᐅᓯᕆᔨ",
-    "Englishdepartment": "Civil Security Department",
-    "Frenchdepartment": "Service de la sécurité publique",
-    "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$58,466-$100,085/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Civil_Security_Mechanic_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Civil_Security_Mechanic_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Civil_Security_Mechanic_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": ""
-  }, 
+
   
   {
     "id": 324,
