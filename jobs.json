@@ -1,6 +1,31 @@
 [
   {
-    "id": 367,
+    "id": 376,
+    "img": "assets/img-6.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "ASSISTANT DIRECTOR – LEGAL DEPARTMENT",
+    "Frenchtitle": "DIRECTEUR ADJOINT ou DIRECTRICE ADJOINTE – SERVICE JURIDIQUE",
+    "Inuktituttitle": "ᑲᒪᔨᒻᒪᕆᐅᑉ ᐃᑲᔪᕐᑎᖓ – ᐱᖁᔭᓕᕆᕕᐅᑉ ᐱᓇᓱᕝᕕᖓ",
+    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
+    "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
+    "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$107,005-$147,116/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Assistant_Director_Legal_Department_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Assistant_Director_Legal_Department_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Assistant_Director_Legal_Department_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "March 7, 2025"
+  },
+  {
+    "id": 375,
     "img": "assets/img-6.png",
     "typeEn": "Full-time",
     "typeFr": "TEMPS PLEIN",
@@ -25,7 +50,7 @@
     "deadline": "March 6, 2025"
   },
   {
-    "id": 366,
+    "id": 374,
     "img": "assets/img-6.png",
     "typeEn": "Full-time",
     "typeFr": "TEMPS PLEIN",
@@ -50,7 +75,7 @@
     "deadline": "March 6, 2025"
   },
   {
-    "id": 354,
+    "id": 373,
     "img": "assets/img-4.png",
     "typeEn": "Full-time",
     "typeFr": "TEMPS PLEIN",
@@ -75,7 +100,7 @@
     "deadline": "March 6, 2025"
   },
     {
-    "id": 353,
+    "id": 372,
     "img": "assets/img-3.png",
     "typeEn": "Full-time",
     "typeFr": "TEMPS PLEIN",
@@ -100,7 +125,7 @@
     "deadline": "March 5, 2025"
   },
   {
-    "id": 352,
+    "id": 371,
     "img": "assets/img-2.png",
     "typeEn": "Full-time",
     "typeFr": "TEMPS PLEIN",
@@ -223,31 +248,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "February 21, 2025"
   },
-  {
-    "id": 366,
-    "img": "assets/img-6.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "ASSISTANT DIRECTOR – LEGAL DEPARTMENT",
-    "Frenchtitle": "DIRECTEUR ADJOINT ou DIRECTRICE ADJOINTE – SERVICE JURIDIQUE",
-    "Inuktituttitle": "ᑲᒪᔨᒻᒪᕆᐅᑉ ᐃᑲᔪᕐᑎᖓ – ᐱᖁᔭᓕᕆᕕᐅᑉ ᐱᓇᓱᕝᕕᖓ",
-    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
-    "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
-    "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$107,005-$147,116/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Assistant_Director_Legal_Department_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Assistant_Director_Legal_Department_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Assistant_Director_Legal_Department_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "February 21, 2025"
-  },
+
   {
     "id": 365,
     "img": "assets/img-5.png",
