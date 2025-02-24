@@ -223,31 +223,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "February 20, 2025"
   },
-  {
-    "id": 367,
-    "img": "assets/img-7.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "ASSISTANT DIRECTOR Parks Operations",
-    "Frenchtitle": "DIRECTEUR ADJOINT ou DIRECTRICE ADJOINTE Exploitation des parcs",
-    "Inuktituttitle": "ᑲᒪᔨᒻᒪᕆᓐᒧᑦ ᐃᑲᔪᕐᑎ ᒥᕐᖑᐃᓯᕐᕖᑦ ᐊᐅᓚᑕᐅᓂᖏᓐᓄᑦ",
-    "Englishdepartment": "Renewable Resources",
-    "Frenchdepartment": "Service des ressources renouvelables",
-    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
-    "salary": "$110,799-$152,352/year",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/Assistant_Director_Parks_Operations_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Assistant_Director_Parks_Operations_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Assistant_Director_Parks_Operations_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "February 21, 2025"
-  },
+
 
   {
     "id": 365,
@@ -960,31 +936,7 @@
     "location": "Akulivik, Canada",
     "deadline": ""
   },
-  {
-    "id": 128,
-    "img": "assets/img-7.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "RECREATION TECHNICAL ASSISTANCE AND DEVELOPMENT ADVISOR",
-    "Frenchtitle": "CONSEILLER EN ASSISTANCE TECHNIQUE ET EN DÉVELOPPEMENT DES LOISIRS",
-    "Inuktituttitle": "ᓱᖃᑦᓯᓂᓕᕆᓂᕐᒧᑦ ᐱᓪᓗᑯᒋᐊᓕᑦᑎᒍᑦ ᐃᑲᔪᕐᑎ ᐊᒻᒪᓗ ᐱᕙᓪᓕᐊᑎᑦᓯᓂᕐᒧᑦ ᐃᓱᒪᑦᓴᓕᐅᕆᖏᑦ",
-    "Englishdepartment": "Recreation",
-    "Frenchdepartment": "Service des loisirs",
-    "Inuktitutdepartment": "ᓱᖃᑦᓯᓂᓕᕆᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$51,077-$86,867/year",
-    "experience": "2 years exp",
-    "Englishlink": "assets/hr(jobs)/Rec_Tech_Asst_Dev_Advisor_Temp_2024_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Rec_Tech_Asst_Dev_Advisor_Temp_2024_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Rec_Tech_Asst_Dev_Advisor_Temp_2024_I.pdf",
-    "company": "KRG",
-    "title": "RECREATION TECHNICAL ASSISTANCE AND DEVELOPMENT ADVISOR",
-    "description": "",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+
   {
     "id": 76,
     "img": "assets/img-1.png",
