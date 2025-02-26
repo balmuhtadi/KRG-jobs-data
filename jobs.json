@@ -350,30 +350,6 @@
     "deadline": "February 19, 2025"
   },
   {
-    "id": 364,
-    "img": "assets/img-4.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "Communicator",
-    "Frenchtitle": "Communicateur",
-    "Inuktituttitle": "ᑐᓴᐅᒪᑎᑦᓯᔨ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$43,348-$71,800/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Communicator_Puvirnituq_2025_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Communicator_Puvirnituq_2025_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Communicator_Puvirnituq_2025_I.pdf",
-    "company": "KRG",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Puvirnituq, Canada",
-    "deadline": "February 17, 2025"
-  },
-  {
     "id": 363,
     "img": "assets/img-3.png",
     "typeEn": "Full-time",
@@ -551,31 +527,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-  {
-    "id": 350,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "AIRPORT MAINTAINER",
-    "Frenchtitle": "PRÉPOSÉ À L’ENTRETIEN DE L’AÉROPORT",
-    "Inuktituttitle": "ᑎᒻᒥᔫᕐᓂᐊᕕᒻᒥ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᑎ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$43,348-$71,800/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Maintainer_Inukjuak_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Maintainer_Inukjuak_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Maintainer_Inukjuak_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Inukjuak, Canada",
-    "deadline": "January 23, 2025"
-  },
+
 
   {
     "id": 347,
