@@ -1,5 +1,30 @@
 [
   {
+    "id": 378,
+    "img": "assets/img-3.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "COMMUNITY REINTEGRATION OFFICER",
+    "Frenchtitle": "AGENT DE RÉINSERTION COMMUNAUTAIRE",
+    "Inuktituttitle": "ᓄᓇᓕᒻᒧᑦ ᐅᑎᕐᑐᒥᒃ ᑎᒍᔭᐅᒪᔪᕕᓂᕐᒥᒃ ᐃᓚᐅᓕᕐᑎᓯᒋᐊᓪᓚᓂᕐᒧᑦ ᐃᑲᔪᕐᑎ",
+    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
+    "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
+    "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$45,942-$77,337/year",
+    "experience": "no exp required.",
+    "Englishlink": "assets/hr(jobs)/Community_Reintegration_Officer_CRO_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Community_Reintegration_Officer_CRO_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Community_Reintegration_Officer_CRO_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
+  {
     "id": 377,
     "img": "assets/img-7.png",
     "typeEn": "Full-time",
@@ -372,31 +397,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "February 19, 2025"
   },
-  {
-    "id": 363,
-    "img": "assets/img-3.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "COMMUNITY REINTEGRATION OFFICER",
-    "Frenchtitle": "AGENT DE RÉINSERTION COMMUNAUTAIRE",
-    "Inuktituttitle": "ᓄᓇᓕᒻᒧᑦ ᐅᑎᕐᑐᒥᒃ ᑎᒍᔭᐅᒪᔪᕕᓂᕐᒥᒃ ᐃᓚᐅᓕᕐᑎᓯᒋᐊᓪᓚᓂᕐᒧᑦ ᐃᑲᔪᕐᑎ",
-    "Englishdepartment": "Legal, Socio-Judicial and Municipal Management Department",
-    "Frenchdepartment": "Service juridique, sociojudiciaire et de la gestion municipale",
-    "Inuktitutdepartment": "ᐱᖁᔭᑎᒍᑦ, ᐃᓅᓯᒃᑯᑦ-ᐱᖁᔭᕐᑎᒎᕐᓂᒧᑦ ᓄᓇᓕᓐᓂᓗ ᑲᒪᒋᔭᖃᕆᐊᖃᕐᓂᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$45,942-$77,337/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Community_Reintegration_Officer_CRO_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Community_Reintegration_Officer_CRO_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Community_Reintegration_Officer_CRO_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "February 14, 2025"
-  },
+
 
   {
     "id": 362,
