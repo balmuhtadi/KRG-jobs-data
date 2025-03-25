@@ -1,5 +1,31 @@
 [
   {
+    "id": 417,
+    "img": "assets/img-7.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "PARK MAINTENANCE TECHNICIAN",
+    "Frenchtitle": "TECHNICIEN DE L’ENTRETIEN DES PARCS",
+    "Inuktituttitle": "ᒥᕐᖑᐃᓯᕐᕕᓂ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᓂᕐᓄᑦ ᐱᓪᓗᑯᒋᐊᓕᑦᑎ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "3 years exp.",
+    "Englishlink": "assets/hr(jobs)/Seasonal_Park_Maintenance_Technician_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Seasonal_Park_Maintenance_Technician_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Seasonal_Park_Maintenance_Technician_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "April 7, 2025"
+  },
+ 
+  {
     "id": 416,
     "img": "assets/img-6.png",
     "typeEn": "Full-time",
