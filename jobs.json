@@ -1,5 +1,30 @@
 [
   {
+    "id": 440,
+    "img": "assets/img-10.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "ASSISTANT TREASURER",
+    "Frenchtitle": "TRÉSORIER ADJOINT",
+    "Inuktituttitle": "ᑮᓇᐅᔭᓕᕆᔨᒻᒪᕆᐅᑉ ᐃᑲᔪᕐᑎᖓ",
+    "Englishdepartment": "Finance, Treasury",
+    "Frenchdepartment": "Service financier, de la trésorerie",
+    "Inuktitutdepartment": "ᑮᓇᐅᔭᖃᐅᑎ ᑮᓇᐅᔭᓕᕆᓂᕐᒥᒃ ᐱᓇᓱᕝᕕ",
+    "salary": "$134,607-$185,097/year",
+    "experience": "8 years exp",
+    "Englishlink": "assets/hr(jobs)/Assistant_Treasurer_E_2025_3rd_Posting.pdf",
+    "Frenchlink": "assets/hr(jobs)/Assistant_Treasurer_F_2025_3rd_Posting.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Assistant_Treasurer_I_2025_3rd_Posting.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
+  {
     "id": 439,
     "img": "assets/img-9.png",
     "typeEn": "Full-time",
@@ -675,31 +700,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "April 1, 2025"
   },
-  {
-    "id": 408,
-    "img": "assets/img-8.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "ASSISTANT TREASURER",
-    "Frenchtitle": "TRÉSORIER ADJOINT",
-    "Inuktituttitle": "ᑮᓇᐅᔭᓕᕆᔨᒻᒪᕆᐅᑉ ᐃᑲᔪᕐᑎᖓ",
-    "Englishdepartment": "Finance, Treasury",
-    "Frenchdepartment": "Service financier, de la trésorerie",
-    "Inuktitutdepartment": "ᑮᓇᐅᔭᖃᐅᑎ ᑮᓇᐅᔭᓕᕆᓂᕐᒥᒃ ᐱᓇᓱᕝᕕ",
-    "salary": "$134,607-$185,097/year",
-    "experience": "8 years exp",
-    "Englishlink": "assets/hr(jobs)/Assistant_Treasurer_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Assistant_Treasurer_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Assistant_Treasurer_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "April 1, 2025"
-  },
+
 
   {
     "id": 405,
