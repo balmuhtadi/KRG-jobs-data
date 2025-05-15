@@ -274,33 +274,6 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "May 9, 2025"
   },
-
-  {
-    "id": 449,
-    "img": "assets/img-9.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "FIREFIGHTING TRAINING OFFICER",
-    "Frenchtitle": "AGENT DE FORMATION EN LUTTE CONTRE LES INCENDIES",
-    "Inuktituttitle": "ᖃᒥᑎᕆᔩᑦ ᐱᒋᐅᕐᓴᑎᑕᐅᓂᖏᓐᓂᒃ ᑲᔪᓯᒃᑫᔨ",
-    "Englishdepartment": "Civil Security Department",
-    "Frenchdepartment": "Service de la sécurité publique",
-    "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$60,074-$102,839/year",
-    "experience": "3 years exp.",
-    "Englishlink": "assets/hr(jobs)/Firefighting_training_Officer_E_2025_Hybrid.pdf",
-    "Frenchlink": "assets/hr(jobs)/Firefighting_training_Officer_F_2025_Hybrid.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Firefighting_training_Officer_I_2025_Hybrid.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Hybrid",
-    "deadline": ""
-  },
-
   {
     "id": 445,
     "img": "assets/img-2.png",
