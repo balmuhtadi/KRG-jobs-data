@@ -1,5 +1,29 @@
 [
-
+{
+    "id": 465,
+    "img": "assets/img-5.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "GENERAL ACCOUNTANT",
+    "Frenchtitle": "COMPTABLE GÉNÉRAL(E)",
+    "Inuktituttitle": "ᑮᓇᐅᑦᔭᓵᓕᕆᔨᒥᒃ ᑮᓇᐅᔭᓕᕆᔨᐅᓗᓂᓗ",
+    "Englishdepartment": "Finance, Treasury",
+    "Frenchdepartment": "Service financier, de la trésorerie",
+    "Inuktitutdepartment": "ᑮᓇᐅᔭᖃᐅᑎ ᑮᓇᐅᔭᓕᕆᓂᕐᒥᒃ ᐱᓇᓱᕝᕕ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/General_Accountant_E_2025_TEMP.pdf",
+    "Frenchlink": "assets/hr(jobs)/General_Accountant_F_2025_TEMP.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/General_Accountant_I_2025_TEMP.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
   {
     "id": 464,
     "img": "assets/img-4.png",
