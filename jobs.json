@@ -1,4 +1,54 @@
 [
+   {
+    "id": 469,
+    "img": "assets/img-9.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN - PLUMBER",
+    "Frenchtitle": "TECHNICIEN EN MAINTENANCE DES BÂTIMENTS - PLOMBIER",
+    "Inuktituttitle": "ᐃᓪᓗᓂᒃ ᓴᓇᒋᐊᓪᓛᕆᔨ- ᐃᒪᕐᑑᑎᓕᕆᔨ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Building_Technician_Plumber_E_2025_Rotation.pdf",
+    "Frenchlink": "assets/hr(jobs)/Building_Technician_Plumber_F_2025_Rotation.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Building_Technician_Plumber_I_2025_Rotation.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": ""
+  },
+  {
+    "id": 468,
+    "img": "assets/img-8.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN - HVAC",
+    "Frenchtitle": "TECHNICIEN EN MAINTENANCE DES BÂTIMENTS - CVCA",
+    "Inuktituttitle": "ᐃᓪᓗᔪᐊᓂᒃ ᓱᒃᑯᑎᑦᓯᑌᓕᓂᕐᒥᒃ ᐱᓪᓗᑯᒋᐊᓕᓕᕆᔨ - HVAC",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Building_Technician_HVAC_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Building_Technician_HVAC_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Building_Technician_HVAC_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
   {
     "id": 467,
     "img": "assets/img-6.png",
@@ -49,7 +99,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "June 9, 2025"
   },
-{
+  {
     "id": 465,
     "img": "assets/img-5.png",
     "typeEn": "Full-time",
@@ -403,7 +453,7 @@
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
     "location": "Kuujjuaq, Canada",
     "deadline": ""
-  }, 
+  },
   {
     "id": 391,
     "img": "assets/img-2.png",
@@ -505,8 +555,6 @@
     "deadline": ""
   },
 
-  
- 
   {
     "id": 362,
     "img": "assets/img-2.png",
@@ -533,7 +581,6 @@
     "deadline": ""
   },
 
- 
   {
     "id": 351,
     "img": "assets/img-1.png",
