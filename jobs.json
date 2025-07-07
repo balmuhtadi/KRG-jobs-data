@@ -1,5 +1,30 @@
 [
-      {
+  {
+    "id": 474,
+    "img": "assets/img-4.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "RECREATION COORDINATOR",
+    "Frenchtitle": "COORDONNATEUR DES LOISIRS",
+    "Inuktituttitle": "ᐱᖕᖑᐊᓂᓕᕆᓂᕐᒥᒃ ᑐᑭᒧᐊᑦᑎᓯᔨ",
+    "Englishdepartment": "Recreation",
+    "Frenchdepartment": "Service des loisirs",
+    "Inuktitutdepartment": "ᓱᖃᑦᓯᓂᓕᕆᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$87,947-$120,935/year",
+    "experience": "8 years exp",
+    "Englishlink": "assets/hr(jobs)/Recreation_Coordinator_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Recreation_Coordinator_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Recreation_Coordinator_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
+  {
     "id": 473,
     "img": "assets/img-3.png",
     "typeEn": "contract",
@@ -8,7 +33,7 @@
     "Englishtitle": "COORDINATOR - RESILIENCE PLAN",
     "Frenchtitle": "COORDONNATEUR – PLAN DE RÉSILIENCE",
     "Inuktituttitle": "ᐊᑕᐅᑦᓯᑯᕐᑎᓯᔨ - ᐅᖁᒣᑦᑐᓂᒃ ᐊᓂᒍᐃᒍᓐᓇᓂᕐᒥᒃ ᐸᕐᓇᕈᑏᑦ",
-   "Englishdepartment": "Public Security Department",
+    "Englishdepartment": "Public Security Department",
     "Frenchdepartment": "Service de la sécurité publique",
     "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
     "salary": "$96,629-$132,852/year",
@@ -24,7 +49,7 @@
     "location": "Hybrid",
     "deadline": "July 21, 2025"
   },
-    {
+  {
     "id": 472,
     "img": "assets/img-2.png",
     "typeEn": "Full-Time",
@@ -33,7 +58,7 @@
     "Englishtitle": "FIRE SERVICE INSTRUCTOR",
     "Frenchtitle": "AGENT, AGENTE DE FORMATION DU SERVICE D’INCENDIE",
     "Inuktituttitle": "ᖃᒥᑎᕆᔨᓂᒃ ᐃᓕᓐᓂᐊᑎᑦᓯᔨ",
-   "Englishdepartment": "Public Security Department",
+    "Englishdepartment": "Public Security Department",
     "Frenchdepartment": "Service de la sécurité publique",
     "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
     "salary": "$52,481-$89,256/year",
@@ -58,7 +83,7 @@
     "Englishtitle": "Public Safety & Fire Prevention Technician",
     "Frenchtitle": "Technicien en sécurité publique et en prévention des incendies",
     "Inuktituttitle": "ᐃᓄᓕᒫᓄᑦ ᐊᑦᑕᓇᖏᑐᒦᑦᑎᓯᓂᖅ ᐊᒻᒪᓗ ᐃᑯᐊᓪᓚᑎᑦᓯᑏᓕᓂᕐᒧᑦ ᐱᓪᓗᑯᒋᐊᓕᓕᕆᔨ",
-   "Englishdepartment": "Public Security Department",
+    "Englishdepartment": "Public Security Department",
     "Frenchdepartment": "Service de la sécurité publique",
     "Inuktitutdepartment": "ᓇᐅᓕᒫᓂᒃ ᐊᑦᑕᓇᙱᑐᒦᑦᑎᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
     "salary": "$60,074-$102,839/year",
