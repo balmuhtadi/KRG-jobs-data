@@ -1,6 +1,31 @@
 [
-    {
-    "id": 474,
+  {
+    "id": 471,
+    "img": "assets/img-2.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "Public Safety & Fire Prevention Technician",
+    "Frenchtitle": "Technicien en sécurité publique et en prévention des incendies",
+    "Inuktituttitle": "ᐃᓄᓕᒫᓄᑦ ᐊᑦᑕᓇᖏᑐᒦᑦᑎᓯᓂᖅ ᐊᒻᒪᓗ ᐃᑯᐊᓪᓚᑎᑦᓯᑏᓕᓂᕐᒧᑦ ᐱᓪᓗᑯᒋᐊᓕᓕᕆᔨ",
+    "Englishdepartment": "Civil Security Department",
+    "Frenchdepartment": "Service de la sécurité civile",
+    "Inuktitutdepartment": "ᐃᓄᐃᑦ ᖃᓄᐃᖕᖏᓯᐊᕐᑐᓴᐅᓂᖏᓐᓄᑦ ᐱᑦᔪᔨᕕᐅᑉ",
+    "salary": "$60,074-$102,839/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Public_Safety_and_Fire_Prevention_Technician_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Public_Safety_and_Fire_Prevention_Technician_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Public_Safety_and_Fire_Prevention_Technician_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": "August 14, 2025"
+  },
+  {
+    "id": 477,
     "img": "assets/img-4.png",
     "typeEn": "Full-Time",
     "typeFr": "TEMPS PLEIN",
@@ -74,7 +99,7 @@
     "location": "Kuujjuaraapik, Canada",
     "deadline": "August 5, 2025"
   },
-  
+
   {
     "id": 477,
     "img": "assets/img-6.png",
@@ -330,7 +355,6 @@
     "deadline": ""
   },
 
-
   {
     "id": 438,
     "img": "assets/img-6.png",
@@ -584,7 +608,6 @@
     "location": "Aupaluk, Canada",
     "deadline": ""
   },
-
 
   {
     "id": 309,
