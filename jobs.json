@@ -1,5 +1,30 @@
 [
-    {
+  {
+    "id": 477,
+    "img": "assets/img-1.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "ADMINISTRATIVE TECHNICIAN, PARC NATIONAL DES PINGUALUIT",
+    "Frenchtitle": "TTECHNICIEN ADMINISTRATIF, PARC NATIONAL PINGUALUIT",
+    "Inuktituttitle": "ᐊᐅᓚᑦᓯᓂᓕᕆᓂᕐᒥᒃ ᐱᓪᓗᑯᒋᐊᓕᓕᕆᔨ, ᐱᖑᐊᓗᐃᑦ ᒥᕐᖑᐃᓯᕐᕕᖓ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$40,906-$66,291/year",
+    "experience": "2 years exp",
+    "Englishlink": "assets/hr(jobs)/Administrative_Technician_PNP_E_2025_TEMP.pdf",
+    "Frenchlink": "assets/hr(jobs)/Administrative_Technician_PNP_F_2025_TEMP.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Administrative_Technician_PNP_I_2025_TEMP.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kangiqsujuaq, Canada",
+    "deadline": "August 22, 2025"
+  },
+  {
     "id": 476,
     "img": "assets/img-10.png",
     "typeEn": "Full-time",
@@ -24,7 +49,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "August 21, 2025"
   },
-    {
+  {
     "id": 474,
     "img": "assets/img-6.png",
     "typeEn": "Full-time",
@@ -149,8 +174,6 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "August 14, 2025"
   },
-
-
 
   {
     "id": 477,
