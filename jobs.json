@@ -1,5 +1,30 @@
 [
     {
+    "id": 476,
+    "img": "assets/img-10.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
+    "Englishtitle": "COMMUNICATIONS OFFICER",
+    "Frenchtitle": "AGENT DES COMMUNICATIONS",
+    "Inuktituttitle": "ᑐᓴᐅᒪᐅᑎᓕᕆᓂᕐᓂᒃ ᑲᒪᔨ",
+    "Englishdepartment": "Communications",
+    "Frenchdepartment": "Département des communications",
+    "Inuktitutdepartment": "ᑐᓴᕈᑎᓕᕆᕕᒻᒥ ᐱᓇᓱᐊᕐᕕᒃ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/Communication_Officer_25_E.pdf",
+    "Frenchlink": "assets/hr(jobs)/Communication_Officer_25_F.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Communication_Officer_25_I.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "August 21, 2025"
+  },
+    {
     "id": 474,
     "img": "assets/img-6.png",
     "typeEn": "Full-time",
@@ -124,31 +149,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "August 14, 2025"
   },
-  {
-    "id": 476,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ)",
-    "Englishtitle": "COMMUNICATIONS OFFICER",
-    "Frenchtitle": "AGENT DES COMMUNICATIONS",
-    "Inuktituttitle": "ᑐᓴᐅᒪᐅᑎᓕᕆᓂᕐᓂᒃ ᑲᒪᔨ",
-    "Englishdepartment": "Communications",
-    "Frenchdepartment": "Département des communications",
-    "Inuktitutdepartment": "ᑐᓴᕈᑎᓕᕆᕕᒻᒥ ᐱᓇᓱᐊᕐᕕᒃ",
-    "salary": "$52,481-$89,256/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Communication_Officer_25_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Communication_Officer_25_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Communication_Officer_25_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": "August 7, 2025"
-  },
+
 
 
   {
