@@ -1,4 +1,29 @@
 [
+    {
+    "id": 477,
+    "img": "assets/img-1.png",
+    "typeEn": "Temporary, Full-Time",
+    "typeFr": "Poste temporaire, TEMPS PLEIN",
+    "typeIu": "ᐱᓇᓱᒐᐅᓚᐅᕐᑐᑐᖅ, ᐱᓇᓱᒐᖅ",
+    "Englishtitle": "ADMINISTRATIVE TECHNICIAN, PARC NATIONAL DES PINGUALUIT",
+    "Frenchtitle": "TTECHNICIEN ADMINISTRATIF, PARC NATIONAL PINGUALUIT",
+    "Inuktituttitle": "ᐊᐅᓚᑦᓯᓂᓕᕆᓂᕐᒥᒃ ᐱᓪᓗᑯᒋᐊᓕᓕᕆᔨ, ᐱᖑᐊᓗᐃᑦ ᒥᕐᖑᐃᓯᕐᕕᖓ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$40,906-$66,291/year",
+    "experience": "2 years exp",
+    "Englishlink": "assets/hr(jobs)/Administrative_Technician_PNP_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Administrative_Technician_PNP_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Administrative_Technician_PNP_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kangiqsujuaq, Canada",
+    "deadline": "August 25, 2025"
+  },
   {
     "id": 477,
     "img": "assets/img-1.png",
@@ -353,31 +378,7 @@
     "deadline": ""
   },
 
-  {
-    "id": 455,
-    "img": "assets/img-5.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "SENIOR BUYER",
-    "Frenchtitle": "ACHETEUR PRINCIPAL",
-    "Inuktituttitle": "ᓂᐅᕕᕋᕐᑎᒪᕆ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$52,481-$89,256/year",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/Senior_Buyer_2025_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Senior_Buyer_2025_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Senior_Buyer_2025_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
+ 
 
   {
     "id": 452,
