@@ -1,5 +1,30 @@
 [
     {
+    "id": 484,
+    "img": "assets/img-9.png",
+    "typeEn": "Full-time, ON ROTATION",
+    "typeFr": "TEMPS PLEIN, SUR ROTATION",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ, ᓇᓪᓕᐅᑎᑦᑕᓱᓂ ᐱᓇᓱᓐᓇᖓ",
+    "Englishtitle": "DRINKING WATER PLANT OPERATIONS AND MAINTENANCE INSTRUCTOR",
+    "Frenchtitle": "AGENT DE FORMATION POUR L’EXPLOITATION ET L’ENTRETIEN DES USINES DE TRAITEMENT DE L’EAU POTABLE",
+    "Inuktituttitle": "ᐃᒥᕐᑕᕕᒻᒥ ᐱᓇᓱᑦᑎ ᐋᕐᕿᓱᐃᓂᕐᒥᒃ ᐃᓕᓐᓂᐊᑎᑦᓯᔨ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$63,716-$109,329/year",
+    "experience": "no exp required.",
+    "Englishlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Water_Plant_Operation_Maintenance_Instructor_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": ""
+  },
+  {
     "id": 483,
     "img": "assets/img-9.png",
     "typeEn": "Full-time",
@@ -24,7 +49,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-    {
+  {
     "id": 482,
     "img": "assets/img-8.png",
     "typeEn": "Full-time",
