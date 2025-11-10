@@ -8,9 +8,9 @@
     "Englishtitle": "ADMINISTRATIVE TECHNICIAN - COURT LIAISON",
     "Frenchtitle": "TECHNICIEN(NE) ADMINISTRATIF(VE) – LIAISON AVEC LES TRIBUNAUX",
     "Inuktituttitle": "ᐊᓪᓚᕕᓕᕆᐅᑎᓂᒃ ᐱᓇᓱᑦᑎ - ᐃᕐᖃᑐᐃᕕᒻᒧᑦ ᑭᒡᒐᑐᕐᑎ",
-    "Englishdepartment": "nps.",
-    "Frenchdepartment": "Nunavik Police Service.",
-    "Inuktitutdepartment": "Nunavik Police Service.",
+    "Englishdepartment": "Public Security Department.",
+    "Frenchdepartment": "Public Security Department.",
+    "Inuktitutdepartment": "Public Security Department.",
     "salary": "$40,906-$66,292/year",
     "experience": "3 years exp.",
     "Englishlink": "assets/hr(jobs)/courtLiaison_2025_EN.pdf",
@@ -1161,6 +1161,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
