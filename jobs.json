@@ -602,31 +602,6 @@
     "deadline": ""
   },
   {
-    "id": 461,
-    "img": "assets/img-1.png",
-    "typeEn": "Full-Time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "PARK MAINTENANCE TECHNICIAN",
-    "Frenchtitle": "TECHNICIEN DE L’ENTRETIEN DES PARCS",
-    "Inuktituttitle": "ᒥᕐᖑᐃᓯᕐᕕᓂ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᓂᕐᓄᑦ ᐱᓪᓗᑯᒋᐊᓕᑦᑎ",
-    "Englishdepartment": "Renewable Resources",
-    "Frenchdepartment": "Service des ressources renouvelables",
-    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
-    "salary": "$52,481-$89,256/year",
-    "experience": "3 years exp",
-    "Englishlink": "assets/hr(jobs)/Seasonal_Park_Maintenance_Technician_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Seasonal_Park_Maintenance_Technician_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Seasonal_Park_Maintenance_Technician_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": ""
-  },
-  {
     "id": 460,
     "img": "assets/img-10.png",
     "typeEn": "Full-time",
@@ -752,56 +727,6 @@
     "descriptionFr": "",
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
     "location": "Kuujjuaraapik, Canada",
-    "deadline": ""
-  },
-  {
-    "id": 392,
-    "img": "assets/img-10.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "ACCOUNTING CLERK – TAMAANI INTERNET SERVICES",
-    "Frenchtitle": "COMMIS COMPTABLE – SERVICES INTERNET TAMAANI",
-    "Inuktituttitle": "ᑮᓇᐅᔭᓕᕆᓂᕐᒥᒃ ᐊᓪᓚᑎ - ᑕᒫᓂ ᖁᒻᒧᐊᑎᑕᐅᓯᒪᔪᓕᕆᓂᕐᒥᒃ ᐱᒍᑦᔨᕕᖓᓂᒃ",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$43,348-$71,800/year",
-    "experience": "3 years exp",
-    "Englishlink": "assets/hr(jobs)/Accounting_Clerk_Tamaani_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Accounting_Clerk_Tamaani_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Accounting_Clerk_Tamaani_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
-  {
-    "id": 391,
-    "img": "assets/img-2.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "CUSTOMER SERVICE REPRESENTATIVE TIER 2",
-    "Frenchtitle": "REPRÉSENTANT DU SERVICE À LA CLIENTÈLE (ÉCHELON 2)",
-    "Inuktituttitle": "ᓂᐅᕕᕐᑏᑦ ᐱᒍᑦᔭᐅᓂᖏᓐᓄᑦ ᑭᒃᑲᑐᕐᑎ ᐳᕐᑐᓂᓕᒃ 2",
-    "Englishdepartment": "Administration",
-    "Frenchdepartment": "Service administratif",
-    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-    "salary": "$45,942-$77,337/year",
-    "experience": "no exp required.",
-    "Englishlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_E_2025.pdf",
-    "Frenchlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_F_2025.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Customer_Service_Representative_Tier_2_I_2025.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
   {
@@ -1161,6 +1086,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
