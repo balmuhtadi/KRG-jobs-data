@@ -730,32 +730,6 @@
     "deadline": ""
   },
   {
-    "id": 389,
-    "img": "assets/img-8.png",
-    "typeEn": "Full-time",
-    "typeFr": "TEMPS PLEIN",
-    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "DIRECTOR, TRANSPORTATION DEPARTMENT",
-    "Frenchtitle": "DIRECTEUR, SERVICE DES TRANSPORTS",
-    "Inuktituttitle": "ᑲᒪᔨᒪᕆᒃ, ᐃᖏᕐᕋᔪᓕᕆᓂᕐᒧᑦ ᐱᑦᔪᑦᔨᕕᒻᒥ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$128,903-$177,244/year",
-    "experience": "5 years exp",
-    "Englishlink": "assets/hr(jobs)/Director_Transportation_2025_E.pdf",
-    "Frenchlink": "assets/hr(jobs)/Director_Transportation_2025_F.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/Director_Transportation_2025_I.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kuujjuaq, Canada",
-    "deadline": ""
-  },
-
-  {
     "id": 362,
     "img": "assets/img-2.png",
     "typeEn": "Full-time",
@@ -1086,6 +1060,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
