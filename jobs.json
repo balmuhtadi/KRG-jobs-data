@@ -1,4 +1,29 @@
 [
+    {
+    "id": 449059,
+    "img": "assets/img-2.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "IMPLEMENTATION AND FACILITIES SPECIALIST - TAMAANI INTERNET SERVICES SECTION",
+    "Frenchtitle": "SPÉCIALISTE DE L’INSTALLATION ET DES ÉQUIPEMENTS - SECTION TAMAANI INTERNET",
+    "Inuktituttitle": "ᐃᖏᕐᕋᓯᑎᑦᓯᓂᕐᓂᒃ ᐊᒻᒪᓗ ᐃᓱᕐᕆᐅᑎᓂᒃ ᑲᒪᔨ ᑕᒫᓂ ᖃᕆᑕᐅᔭᒃᑰᑎᑦᓯᐅᑎᓄᑦ ᑭᒡᒐᑐᕐᕕᒥᒃ",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$52,482-$89,256/year",
+    "experience": "3 years exp.",
+    "Englishlink": "assets/hr(jobs)/IAFS_2025_EN.pdf",
+    "Frenchlink": "assets/hr(jobs)/IAFS_2025_FR.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/IAFS_2025_IU.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": ""
+  },
   {
     "id": 449058,
     "img": "assets/img-2.png",
@@ -1060,6 +1085,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
