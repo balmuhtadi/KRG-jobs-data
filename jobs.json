@@ -1,5 +1,30 @@
 [
     {
+    "id": 449060,
+    "img": "assets/img-2.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "PROJECT MANAGER INFRASTRUCTURE – NUNAVIK PARKS",
+    "Frenchtitle": "GESTIONNAIRE DE PROJETS D’INFRASTRUCTURE – NUNAVIK PARKS",
+    "Inuktituttitle": "ᐱᓇᓱᐊᕋᑦᓴᓂ ᐊᐅᓚᑦᓯᔨ ᐃᓪᓗᓕᕆᓂᕐᒥᒃ – ᓄᓇᕕᒻᒥ ᒥᕐᖑᐃᓯᕐᕖᑦ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$63,716-$109,329/year",
+    "experience": "3 year exp",
+    "Englishlink": "assets/hr(jobs)/ProjectManager_Parks_EN.pdf",
+    "Frenchlink": "assets/hr(jobs)/ProjectManager_Parks_FR.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/ProjectManager_Parks_IU.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "December 1, 2025"
+    },
+    {
     "id": 449059,
     "img": "assets/img-2.png",
     "typeEn": "Full-time",
@@ -383,7 +408,7 @@
     "Englishtitle": "PARK WARDEN, PARC NATIONAL TURSUJUQ",
     "Frenchtitle": "GARDIEN DE PARC, PARC NATIONAL TURSUJUQ",
     "Inuktituttitle": "ᒥᕐᖑᐃᓯᕐᕕᒻᒥ ᑲᒪᔨᒥᒃ, ᑐᕐᓱᔫᒥ ᒥᕐᖑᐃᓯᕐᕕᒻᒥ",
-    "Englishdepartment": "Renewable Resources",
+    "Englishdepartment": " Resources",
     "Frenchdepartment": "Service des ressources renouvelables",
     "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
     "salary": "$45,942-$77,337/year",
@@ -1085,6 +1110,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
