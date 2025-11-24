@@ -5,6 +5,31 @@
     "typeEn": "Full-Time",
     "typeFr": "TEMPS PLEIN",
     "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "BUILDING MAINTENANCE TECHNICIAN",
+    "Frenchtitle": "TECHNICIEN D’ENTRETIEN DES BÂTIMENTS",
+    "Inuktituttitle": "ᐃᓪᓗᓂᒃ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᓂᕐᓄᑦ ᐱᓪᓗᑯᒋᐊᓕᑦᑎ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$45,942-$77,337/year",
+    "experience": "5 years exp.",
+    "Englishlink": "assets/hr(jobs)/Building_Maintenance_Technician_Rotation_E_2025.pdf",
+    "Frenchlink": "assets/hr(jobs)/Building_Maintenance_Technician_Rotation_F_2025.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Building_Maintenance_Technician_Rotation_I_2025.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "rotation Nunavik, Canada",
+    "deadline": ""
+  },
+  {
+    "id": 449062,
+    "img": "assets/img-9.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
     "Englishtitle": "ASSISTANT DIRECTOR – BUILDING MAINTENANCE",
     "Frenchtitle": "DIRECTEUR OU DIRECTRICE ADJOINT(E) – ENTRETIEN DES IMMEUBLES",
     "Inuktituttitle": "ᑐᑭᒧᐊᑦᑎᓯᔨᐅᑉ ᑐᖓᓕᖓ – ᐃᓪᓗᓕᓂᕐᒥ ᓴᓇᔨ",
@@ -24,7 +49,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-    {
+  {
     "id": 449061,
     "img": "assets/img-2.png",
     "typeEn": "Full-Time",
@@ -49,7 +74,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-    {
+  {
     "id": 449060,
     "img": "assets/img-2.png",
     "typeEn": "Full-Time",
@@ -73,8 +98,8 @@
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
     "location": "Kuujjuaq, Canada",
     "deadline": "December 1, 2025"
-    },
-    {
+  },
+  {
     "id": 449059,
     "img": "assets/img-2.png",
     "typeEn": "Full-time",
@@ -224,7 +249,7 @@
     "location": "Nunavik, Canada",
     "deadline": ""
   },
-    {
+  {
     "id": 449053,
     "img": "assets/img-8.png",
     "typeEn": "Full-Time",
@@ -249,7 +274,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
-    {
+  {
     "id": 449052,
     "img": "assets/img-8.png",
     "typeEn": "Full-Time",
@@ -1160,13 +1185,3 @@
     "deadline": ""
   }
 ]
-
-
-
-
-
-
-
-
-
-
