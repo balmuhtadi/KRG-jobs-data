@@ -275,31 +275,6 @@
     "deadline": ""
   },
   {
-    "id": 449055,
-    "img": "assets/img-9.png",
-    "typeEn": "Seasonal permanent position",
-    "typeFr": "poste permanent saisonnier",
-    "typeIu": "ᐊᕐᕌᒎᑉ ᐃᓚᖓᓃᕐᑕᓱᓂ ᐊᑌᓐᓇᑐᖅ ᐃᓂᒃ",
-    "Englishtitle": "BUILDING TECHNICIAN- Plumber",
-    "Frenchtitle": "TECHNICIEN EN BÂTIMENT – plombier",
-    "Inuktituttitle": "ᐃᓪᓗᔪᐊᓂ ᐱᓪᓗᑯᒋᐊᓕᓕᕆᔨ - ᑯᕕᒍᑎᓕᐅᕐᑎ",
-    "Englishdepartment": "Municipal Public Works",
-    "Frenchdepartment": "Travaux publics municipaux.",
-    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
-    "salary": "According to the CCQ Collective Agreement",
-    "experience": "5 years exp.",
-    "Englishlink": "assets/hr(jobs)/BT_2025_EN.pdf",
-    "Frenchlink": "assets/hr(jobs)/BT_2025_FR.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/BT_2025_IU.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": "",
-    "descriptionFr": " ",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Nunavik, Canada",
-    "deadline": ""
-  },
-  {
     "id": 449053,
     "img": "assets/img-8.png",
     "typeEn": "Full-Time",
@@ -1137,6 +1112,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
