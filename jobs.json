@@ -1,5 +1,30 @@
 [
    {
+    "id": 449066,
+    "img": "assets/img-2.png",
+    "typeEn": "Full-time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᖃᐅᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "INFORMATION TECHNOLOGY SPECIALIST",
+    "Frenchtitle": "SPÉCIALISTE DES TECHNOLOGIES DE L’INFORMATION",
+    "Inuktituttitle": "ᑐᓴᐅᒪᑎᑦᓯᓂᒃᑯ ᖃᕆᑕᐅᔭᕐᑎᒍ ᐱᓪᓗᑯᒋᐊᓕᓐᓂ ᐱᓇᓱᐊᕐᑎ",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "1 year exp.",
+    "Englishlink": "assets/hr(jobs)/IT2025_EN.pdf",
+    "Frenchlink": "assets/hr(jobs)/IT2025_FR.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/IT2025_IU.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "December 1, 2025"
+  },
+   {
     "id": 449065,
     "img": "assets/img-3.png",
     "typeEn": "Full-Time",
@@ -1112,5 +1137,6 @@
     "deadline": ""
   }
 ]
+
 
 
