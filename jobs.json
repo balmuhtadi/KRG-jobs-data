@@ -1,4 +1,29 @@
 [
+     {
+    "id": 449067,
+    "img": "assets/img-2.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "PROJECT MANAGER, SUSTAINABLE LAND USE PLANNING",
+    "Frenchtitle": "GESTIONNAIRE DE PROJET, AMÉNAGEMENT DURABLE DU TERRITOIRE",
+    "Inuktituttitle": "ᐱᓇᓱᐊᕐᑕᐅᒋᐊᓕᓐᓂ ᐊᐅᓚᑦᓯᔨ, ᓄᓇᓕᕆᓂᕐᒥ ᒪᑭᑕᑦᓯᐊᓚᖓᔪᒥ ᐸᕐᓀᓂ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$60,074-$102,839/year",
+    "experience": "3 year exp",
+    "Englishlink": "assets/hr(jobs)/ProjectManager_SLEP_EN.pdf",
+    "Frenchlink": "assets/hr(jobs)/ProjectManager_SLEP_FR.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/ProjectManager_SLEP_IU.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "December 18, 2025"
+  },
    {
     "id": 449066,
     "img": "assets/img-2.png",
@@ -1112,6 +1137,7 @@
     "deadline": ""
   }
 ]
+
 
 
 
