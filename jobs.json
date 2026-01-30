@@ -149,7 +149,31 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "February 10, 2026"
   },
- 
+     {
+    "id": 143,
+    "img": "assets/img-2.png",
+    "typeEn": "Seasonal position",
+    "typeFr": "poste saisonnier",
+    "typeIu": "ᐊᕐᕌᒍᑉ ᐃᓓᓐᓇᖓᓂᒃ ᐱᓇᓱᒐᖅ",
+    "Englishtitle": "MECHANIC - METAL RECYCLING",
+    "Frenchtitle": "MÉCANICIEN ou MÉCANICIENNE – RECYCLAGE DES MÉTAUX",
+    "Inuktituttitle": "ᓱᒃᑯᓯᒪᔪᕐᓂᐊᑎᒃ - ᓱᒃᑯᓯᒪᔪᕐᓂᐊᑎᒃ - ᑭᑭᐊᑦᓴᔭᓂᒃ ᐊᑐᕐᑐᓴᓕᐅᕆᐊᓪᓚᕕᒃ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$60,074-$102,839/year",
+    "experience": "3 to 5 years exp.",
+    "Englishlink": "assets/hr(jobs)/metal_recycling_mechanic_seasonal_nunavik_2026_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/metal_recycling_mechanic_seasonal_nunavik_2026_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/metal_recycling_mechanic_seasonal_nunavik_2026_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Nunavik, Canada",
+    "deadline": "February 12, 2026"
+  },
     {
     "id": 449064,
     "img": "assets/img-3.png",
