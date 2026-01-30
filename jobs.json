@@ -11,7 +11,7 @@
       "Englishdepartment": "Administration",
       "Frenchdepartment": "Service administratif",
       "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
-      "salary": "$32,396-$44,204/year",
+      "salary": "$43,348-$71,800/year",
       "experience": "Possessing a minimum of 3 months of relevant experience in cleaning servicing",
       "Englishlink": "assets/hr(jobs)/Janitor_Kuujjuaq_2026_E.pdf",
       "Frenchlink": "assets/hr(jobs)/Janitor_Kuujjuaq_2026_F.pdf",
@@ -24,6 +24,33 @@
       "location": "Kuujjuaq",
       "deadline": "February 2, 2026"
     },
+
+    {
+    "id": 138,
+    "img": "assets/img-3.png",
+    "typeEn": "Full-Time",
+    "typeFr": "TEMPS PLEIN",
+    "typeIu": "ᐅᓪᓗᑕᒫᕐᓯᐅᑎ",
+    "Englishtitle": "AIRPORT MAINTAINER",
+    "Frenchtitle": "PRÉPOSÉ À L’ENTRETIEN DE L’AÉROPORT",
+    "Inuktituttitle": "ᑎᒻᒥᔫᕐᓂᐊᕕᒻᒥ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᑎ",
+    "Englishdepartment": "Transportation",
+    "Frenchdepartment": "Transportation",
+    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
+    "salary": "$92,718-$127,481/year",
+    "experience": "Minimal experience in a relevant field of activity or knowledge of heavy equipment operations and maintenance",
+    "Englishlink": "assets/hr(jobs)/Seasonal Maintainer, Kangiqsualujjuaq E 2026.pdf",
+    "Frenchlink": "assets/hr(jobs)/Seasonal Maintainer Kangiqsualujjuaq F 2026.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/Seasonal Maintainer, Kangiqsualujjuaq I 2026.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kangiqsualujjuaq",
+    "deadline": "February 9, 2026"
+  },
+    
     {
     "id": 449058,
     "img": "assets/img-2.png",
