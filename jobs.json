@@ -149,6 +149,31 @@
     "location": "Kuujjuaq, Canada",
     "deadline": "February 10, 2026"
   },
+  {
+    "id": 144,
+    "img": "assets/img-2.png",
+    "typeEn": "PERMANENT, FULL-TIME POSITION",
+    "typeFr": "POSTE PERMANENT À TEMPS PLEIN",
+    "typeIu": "ᐃᓂᖓ ᐊᑌᓐᓇᑐᖅ",
+    "Englishtitle": "EMPLOYMENT SERVICE ADVISOR",
+    "Frenchtitle": "CONSEILLER AUX SERVICES D'EMPLOI",
+    "Inuktituttitle": "ᐱᓇᓱᒐᑦᓴᓕᕆᓂᕐᒥᒃ ᐱᒍᑦᔨᒍᑎᓄᑦ ᐃᓱᐊᕐᓭᔨ",
+    "Englishdepartment": "Sustainable Employment",
+    "Frenchdepartment": "Service de l'emploi durable",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓂᒃ ᐱᒍᑦᔨᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "",
+    "Englishlink": "assets/hr(jobs)/employment_service_advisor_hudson_hybrid_2026_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/employment_service_advisor_hudson_hybrid_2026_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/employment_service_advisor_hudson_hybrid_2026_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Hybrid",
+    "deadline": "February 10, 2026"
+  },
      {
     "id": 143,
     "img": "assets/img-2.png",
@@ -174,6 +199,8 @@
     "location": "Nunavik, Canada",
     "deadline": "February 12, 2026"
   },
+ 
+
   {
     "id": 201,
     "img": "assets/img-2.png",
@@ -217,6 +244,32 @@
     "Englishlink": "assets/hr(jobs)/yes_ungava_coordinator_kuujjuaq_2026_en.pdf",
     "Frenchlink": "assets/hr(jobs)/yes_ungava_coordinator_kuujjuaq_2026_fr.pdf",
     "Inuktitutlink": "assets/hr(jobs)/yes_ungava_coordinator_kuujjuaq_2026_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": ""
+  },
+
+    {
+    "id": 203,
+    "img": "assets/img-2.png",
+    "typeEn": "Permanent – in Kuujjuaq",
+    "typeFr": "Permanent basé à Kuujjuaq",
+    "typeIu": "ᐃᓕᒣᓐᓇᓚᖓᔪᖅ",
+    "Englishtitle": "CONSTRUCTION-ESTIMATOR",
+    "Frenchtitle": "ÉVALUATEUR EN CONSTRUCTION",
+    "Inuktituttitle": "ᓴᓇᒋᐊᓕᓐᓂᒃ-ᐃᒻᒪᖃᐅᑦᓵᑎ",
+    "Englishdepartment": "Municipal Public Works",
+    "Frenchdepartment": "Travaux publics municipaux.",
+    "Inuktitutdepartment": "ᓄᓇᓕᓐᓂ ᓇᐅᓕᒫᓄᐊᖓᔪᓂᒃ ᐱᓇᓱᐊᕐᑏᑦ",
+    "salary": "$52,481-$89,256/year",
+    "experience": "5 years exp.",
+    "Englishlink": "assets/hr(jobs)/construction_estimator_kuujjuaq_2026_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/construction_estimator_kuujjuaq_2026_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/construction_estimator_kuujjuaq_2026_iu.pdf",
     "company": "KRG",
     "title": "",
     "description": "",
