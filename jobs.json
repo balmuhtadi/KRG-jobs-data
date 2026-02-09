@@ -222,7 +222,33 @@
     "descriptionFr": " ",
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
     "location": "Hybrid",
-    "deadline": "February 19th, 2026"
+    "deadline": "February 19, 2026"
+  },
+
+  {
+    "id": 147,
+    "img": "assets/img-2.png",
+    "typeEn": "PERMANENT / FULL TIME POSITION",
+    "typeFr": "POSTE PERMANENT À TEMPS PLEIN",
+    "typeIu": "ᑐᑭᒧᐊᑦᑎᓯᔨᒃ, ᑰᕈᕐᔪᐊᖅᐊᒻᒪᓗ ᐅᓕᑦᑕᓂᐅᔭᓕᒃ ᒥᕐᖑᐃᓯᕐᕕᒋᓐᓂᒃ",
+    "Englishtitle": "DIRECTOR, KUURURJUAQ AND ULITTANIUJALIK PARK",
+    "Frenchtitle": "DIRECTEUR OU DIRECTRICE, PARC DE KUURURJUAQ ET ULITTANIUJALIK",
+    "Inuktituttitle": "ᐊᑌᓐᓇᑐᖅ / ᐅᓪᓗᓕᒫᕐᓯᐅᑎᒃ ᐱᓇᓱᒐᖅ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$95,579-$131,407/year",
+    "experience": "5 years exp",
+    "Englishlink": "assets/hr(jobs)/park_director_kangiqsualujjuaq_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/park_director_kangiqsualujjuaq_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/park_director_kangiqsualujjuaq_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": " ",
+    "descriptionFr": "",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kangiqsualujjuaq, Canada",
+    "deadline": "February 20, 2026"
   },
 
   {
