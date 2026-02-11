@@ -252,6 +252,33 @@
   },
 
   {
+    "id": 148,
+    "img": "assets/img-2.png",
+    "typeEn": "PERMANENT, FULL-TIME",
+    "typeFr": "POSTE PERMANENT À TEMPS PLEIN",
+    "typeIu": "ᐃᓕᒣᓐᓇᓚᖓᔪᖅ, ᖃᐅᑕᒫᕐᓯᐅᑎᒃ",
+    "Englishtitle": "TAMAANI – CUSTOMER SERVICE REPRESENTATIVE",
+    "Frenchtitle": "TAMAANI - REPRÉSENTANT DU SERVICE À LA CLIENTÈLE",
+    "Inuktituttitle": "TAMAANI - ᐱᒍᑦᔨᔭᐅᔪᓂᒃ ᐱᑦᔪᔨᓂᕐᒧᑦ ᑭᒡᒐᑐᕐᑎ",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$40,906 - $66,291/year",
+    "experience": "",
+    "Englishlink": "assets/hr(jobs)/customer_service_representative_kuujjuaq_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/customer_service_representative_kuujjuaq_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/customer_service_representative_kuujjuaq_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kuujjuaq, Canada",
+    "deadline": "February 26, 2026"
+  },
+
+
+  {
     "id": 201,
     "img": "assets/img-2.png",
     "typeEn": "PERMANENT, FULL-TIME POSITION",
