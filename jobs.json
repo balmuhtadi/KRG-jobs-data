@@ -1,31 +1,5 @@
 [  
   {
-    "id": 150,
-    "img": "assets/img-3.png",
-    "typeEn": "Seasonal",
-    "typeFr": "Poste saisonnier",
-    "typeIu": "ᓇᓪᓕᐅᑎᑦᑕᓱᓂ, ᐅᓪᓗᓕᒫᕐᓯᐅᑎ",
-    "Englishtitle": "AIRPORT MAINTAINER",
-    "Frenchtitle": "PRÉPOSÉ À L’ENTRETIEN DE L’AÉROPORT",
-    "Inuktituttitle": "ᑎᒻᒥᔫᕐᓂᐊᕕᒻᒥ ᓯᖁᒥᓯᒪᔪᕐᓂᐊᑎ",
-    "Englishdepartment": "Transportation",
-    "Frenchdepartment": "Transportation",
-    "Inuktitutdepartment": "ᐃᑯᒪᐅᑎᓐᓂᐊᑎ",
-    "salary": "$43,348-$71,800/year",
-    "experience": "",
-    "Englishlink": "assets/hr(jobs)/maintainer_kangiqsualujjuaq_seasonal_kangiqsualujjuaq_2026_en.pdf",
-    "Frenchlink": "assets/hr(jobs)/maintainer_kangiqsualujjuaq_seasonal_kangiqsualujjuaq_2026_fr.pdf",
-    "Inuktitutlink": "assets/hr(jobs)/maintainer_kangiqsualujjuaq_seasonal_kangiqsualujjuaq_2026_iu.pdf",
-    "company": "KRG",
-    "title": "",
-    "description": " ",
-    "descriptionFr": "",
-    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
-    "location": "Kangiqsualujjuaq, Canada",
-    "deadline": "March 11, 2026"
-  },
-
-  {
     "id": 151,
     "img": "assets/img-2.png",
     "typeEn": "Permanent, Full-Time",
@@ -177,7 +151,7 @@
     "descriptionFr": " ",
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
     "location": "Kuujjuaq, Canada",
-    "deadline": "March 18, 2026"
+    "deadline": "March 20, 2026"
   },
 
   {
@@ -230,6 +204,58 @@
     "applyUrl": "https://www.krg.ca/en-CA/apply-now",
     "location": "Kuujjuaq, Canada",
     "deadline": "March 20, 2026"
+  },
+
+  {
+    "id": 158,
+    "img": "assets/img-9.png",
+    "typeEn": "Permanent position, full-time",
+    "typeFr": "poste permanent, temps plein",
+    "typeIu": "ᐃᓂᖓ ᐊᑌᓐᓇᑐᖅ, ᐃᓗᐃᑦᑐᖅ",
+    "Englishtitle": "SENIOR NETWORK ADMINISTRATOR -TAMAANI INTERNET SERVICES",
+    "Frenchtitle": "ADMINISTRATEUR PRINCIPAL OU ADMINISTRATRICE PRINCIPALE DES RÉSEAUX – SERVICES INTERNET TAMAANI ",
+    "Inuktituttitle": "ᐳᕐᑐᓂᕐᓴᒥᑦ ᐱᑐᑦᓯᒪᐅᑎᓕᕆᔨ ᐊᐅᓚᑦᓯᕕᓕᕆᔨᖅ -ᑕᒫᓂ (Tamaami) ᖃᕆᑕᐅᔭᑎᒍᑦ ᐱᑐᑦᓯᒪᐅᑕᓕᕆᕕᒻᒥ ᐱᒍᑦᔨᕕᖓ ",
+    "Englishdepartment": "Administration",
+    "Frenchdepartment": "Service administratif",
+    "Inuktitutdepartment": "ᐊᐅᓚᑦᓯᓂᕐᒧᑦ ᐱᑦᔪᔨᕕᒃ",
+    "salary": "$63,716 - $109,329",
+    "experience": "5 years exp.",
+    "Englishlink": "assets/hr(jobs)/senior_network_administrator_hybrid_2026_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/senior_network_administrator_hybrid_2026_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/senior_network_administrator_hybrid_2026_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Hybrid",
+    "deadline": "March 25, 2026"
+  },
+
+    {
+    "id": 159,
+    "img": "assets/img-9.png",
+    "typeEn": "TEMPORARY FULL TIME",
+    "typeFr": "POSTE TEMPORAIRE À TEMPS PLEIN",
+    "typeIu": "ᐊᑌᓐᓇᑐᖅ / ᐃᓗᐃᒃᑲᑎᒎᕐᑐᖅ",
+    "Englishtitle": "PARC NATIONAL PINGUALUIT- VISITOR EXPERIENCE OFFICER",
+    "Frenchtitle": "PARC NATIONAL PINGUALUIT – AGENT DE SÉJOUR",
+    "Inuktituttitle": "ᒥᕐᖑᐃᓯᕕᒻᒥ ᐱᖑᐊᓗᐃᑦ - ᐳᓛᕆᐊᕐᑐᓄᑦ ᖃᐅᔨᒋᐅᕆᐊᕐᑐᑐᓄᑦ ᐱᓇᓱᑦᑎᑦᓴᒥᒃ",
+    "Englishdepartment": "Renewable Resources",
+    "Frenchdepartment": "Service des ressources renouvelables",
+    "Inuktitutdepartment": "ᓄᑕᐅᓯᓕᑎᕈᓐᓇᑐᓕᕆᓂᕐᒧᑦ, ᐊᕙᑎᓕᕆᓂᕐᒧᑦ",
+    "salary": "$45,942 - $77,337",
+    "experience": "",
+    "Englishlink": "assets/hr(jobs)/park_visitor_experience_officer_kangiqsujuaq_temporary_2026_en.pdf",
+    "Frenchlink": "assets/hr(jobs)/park_visitor_experience_officer_kangiqsujuaq_temporary_2026_fr.pdf",
+    "Inuktitutlink": "assets/hr(jobs)/park_visitor_experience_officer_kangiqsujuaq_temporary_2026_iu.pdf",
+    "company": "KRG",
+    "title": "",
+    "description": "",
+    "descriptionFr": " ",
+    "applyUrl": "https://www.krg.ca/en-CA/apply-now",
+    "location": "Kangiqsujuaq, Canada",
+    "deadline": "March 25, 2026"
   },
 
   {
