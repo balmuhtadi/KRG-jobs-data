@@ -232,7 +232,7 @@
     "deadline": ""
   },
 
-    {
+  {
     "id": 449064,
     "img": "assets/img-3.png",
     "typeEn": "Full-Time",
@@ -282,6 +282,7 @@
     "location": "Kuujjuaq, Canada",
     "deadline": ""
   },
+
   {
     "id": 449057,
     "img": "assets/img-2.png",
@@ -889,6 +890,7 @@
     "location": "Umiujaq, Canada",
     "deadline": ""
   },
+  
   {
     "id": 167,
     "img": "assets/img-7.png",
